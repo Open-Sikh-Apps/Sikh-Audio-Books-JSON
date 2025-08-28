@@ -1,2 +1,2 @@
-# Sikh-Audio-Books-JSON
-Sikh Audio Books Json Database File
+# Sikh Audio Books JSON
+Sikh Audio Books JSON Database File
