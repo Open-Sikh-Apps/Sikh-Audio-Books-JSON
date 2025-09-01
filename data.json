@@ -2,8 +2,1032 @@
   "authors": {
     "df75f5b0-0936-44a8-a91b-e31ebb91eddd": {
       "name": {
-        "pa": "",
+        "pa": "ਭਾਈ ਜਸਵੰਤ ਸਿੰਘ ਜੀ (ਬਾਊਜੀ)",
         "en": "Bhai Jaswant Singh Ji (Bauji)"
+      },
+      "imagePath": "images/authors/bhai_jaswant_singh_ji_bauji_dodra_sahib.jpg",
+      "aboutUrl": {
+        "pa": "https://pa.wikipedia.org/wiki/%E0%A8%9C%E0%A8%B8%E0%A8%B5%E0%A9%B0%E0%A8%A4_%E0%A8%B8%E0%A8%BF%E0%A9%B0%E0%A8%98_(%E0%A8%96%E0%A9%8B%E0%A8%9C%E0%A9%80)",
+        "en": "https://en.wikipedia.org/wiki/Jaswant_Singh_(Khoji)"
+      }
+    },
+    "8c083a7c-430a-4404-9553-66bc34212c66": {
+      "name": {
+        "pa": "ਭਾਈ ਰਣਧੀਰ ਸਿੰਘ ਜੀ",
+        "en": "Bhai Randhir Singh Ji"
+      },
+      "imagePath": "images/authors/bhai_randhir_singh_ji_akj.jpg",
+      "aboutUrl": {
+        "pa": "https://pa.wikipedia.org/wiki/%E0%A8%B0%E0%A8%A3%E0%A8%A7%E0%A9%80%E0%A8%B0_%E0%A8%B8%E0%A8%BF%E0%A9%B0%E0%A8%98_%E0%A8%A8%E0%A8%BE%E0%A8%B0%E0%A9%B0%E0%A8%97%E0%A8%B5%E0%A8%BE%E0%A8%B2",
+        "en": "https://en.wikipedia.org/wiki/Randhir_Singh_(Sikh)"
+      }
+    },
+    "e50d78ad-1738-49a0-adcf-dda0a596a9e0": {
+      "name": {
+        "pa": "ਸੰਤ ਬਾਬਾ ਸੇਵਾ ਸਿੰਘ ਜੀ",
+        "en": "Sant Baba Sewa Singh Ji"
+      },
+      "imagePath": "images/authors/sant_sewa_singh_ji_rampur_khera.png",
+      "aboutUrl": {
+        "pa": "https://www.rampurkhera.com/aboutus_user_end",
+        "en": "https://www.rampurkhera.com/aboutus_user_end"
+      }
+    },
+    "f1a4c42f-b73c-495b-a0e8-6eb553e223f4": {
+      "name": {
+        "pa": "ਭਾਈ ਵੀਰ ਸਿੰਘ ਜੀ",
+        "en": "Bhai Vir Singh Ji"
+      },
+      "imagePath": "images/authors/bhai_veer_singh_ji.jpg",
+      "aboutUrl": {
+        "pa": "https://pa.wikipedia.org/wiki/%E0%A8%AD%E0%A8%BE%E0%A8%88_%E0%A8%B5%E0%A9%80%E0%A8%B0_%E0%A8%B8%E0%A8%BF%E0%A9%B0%E0%A8%98",
+        "en": "https://en.wikipedia.org/wiki/Vir_Singh_(writer)"
+      }
+    }
+  },
+  "audioBooks": {
+    "f1fc3208-447d-4430-b8a2-9edea995036f": {
+      "authorId": "df75f5b0-0936-44a8-a91b-e31ebb91eddd",
+      "authorOrder": 1,
+      "name": {
+        "pa": "ਗੁਰਬਾਣੀ ਅਨੁਭਵ",
+        "en": "Gurbani Anbhav"
+      },
+      "pdfUrlType": "book",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/001.pdf",
+      "imagePath": "images/audioBooks/bauji/GV-001.jpg",
+      "language": "pa"
+    },
+    "eee508e4-7ce3-4e51-9d6f-47ea75c47e1a": {
+      "authorId": "df75f5b0-0936-44a8-a91b-e31ebb91eddd",
+      "authorOrder": 2,
+      "name": {
+        "pa": "ਰੋਸੇ-ਗਿਲੇ",
+        "en": "Rosey Giley"
+      },
+      "pdfUrlType": "chapter",
+      "imagePath": "images/audioBooks/bauji/GV-002.jpg",
+      "language": "pa"
+    },
+    "089393d2-74ca-4f16-9aae-f7ddd6423180": {
+      "authorId": "df75f5b0-0936-44a8-a91b-e31ebb91eddd",
+      "authorOrder": 3,
+      "name": {
+        "pa": "ਮਾਇਆ ਧਾਰੀ ਅਤਿ ਅੰਨਾ ਬੋਲਾ ॥ ਸਬਦੁ ਨ ਸੁਣਈ ਬਹੁ ਰੋਲ ਘਚੋਲਾ ॥",
+        "en": "Maiadharee Att Anna Bola || Shabad Na Suniee Boh Rol Ghachola ||"
+      },
+      "pdfUrlType": "book",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/004.pdf",
+      "imagePath": "images/audioBooks/bauji/GV-004.jpg",
+      "language": "pa"
+    },
+    "b612111d-805b-431e-8f82-d468e38202f7": {
+      "authorId": "df75f5b0-0936-44a8-a91b-e31ebb91eddd",
+      "authorOrder": 4,
+      "name": {
+        "pa": "ਥਿਰੁ ਘਰਿ ਬੈਸਹੁ ਹਰਿ ਜਨ ਪਿਆਰੇ ॥",
+        "en": "Thir Ghar Baesoh Har Jan Piare ||"
+      },
+      "pdfUrlType": "book",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/005.pdf",
+      "imagePath": "images/audioBooks/bauji/GV-005.jpg",
+      "language": "pa"
+    },
+    "f5d5c066-b067-4a83-9194-5ec4c4fe805f": {
+      "authorId": "df75f5b0-0936-44a8-a91b-e31ebb91eddd",
+      "authorOrder": 5,
+      "name": {
+        "pa": "ਰਾਗ-ਨਾਦ-ਧੁਨੀ",
+        "en": "Raag-Naad-Dhuni"
+      },
+      "pdfUrlType": "book",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/006.pdf",
+      "imagePath": "images/audioBooks/bauji/GV-006.jpg",
+      "language": "pa"
+    },
+    "1c566b6c-1e22-4db5-a762-1d015dec5586": {
+      "authorId": "df75f5b0-0936-44a8-a91b-e31ebb91eddd",
+      "authorOrder": 6,
+      "name": {
+        "pa": "ਕਰਉ ਜਤਨ ਜੇ ਹੋਇ ਮਿਹਰਵਾਨਾ ॥",
+        "en": "Karou Jatan Je Hoe Meharwana ||"
+      },
+      "pdfUrlType": "book",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/007.pdf",
+      "imagePath": "images/audioBooks/bauji/GV-007.jpg",
+      "language": "pa"
+    },
+    "1d6faa9a-7bb2-4819-8f3a-f38d7843fe5f": {
+      "authorId": "df75f5b0-0936-44a8-a91b-e31ebb91eddd",
+      "authorOrder": 7,
+      "name": {
+        "pa": "ਗੁਰ ਪ੍ਰਸਾਦਿ",
+        "en": "Gur prasad"
+      },
+      "pdfUrlType": "book",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/008.pdf",
+      "imagePath": "images/audioBooks/bauji/GV-008.jpg",
+      "language": "pa"
+    },
+    "3745322f-b2f8-4c1a-bb26-bc693d248471": {
+      "authorId": "df75f5b0-0936-44a8-a91b-e31ebb91eddd",
+      "authorOrder": 8,
+      "name": {
+        "pa": "ਹਉਮੈ",
+        "en": "Haume"
+      },
+      "pdfUrlType": "chapter",
+      "imagePath": "images/audioBooks/bauji/GV-009.jpg",
+      "language": "pa"
+    },
+    "3400996e-b74c-4db8-9efc-c131db11255f": {
+      "authorId": "df75f5b0-0936-44a8-a91b-e31ebb91eddd",
+      "authorOrder": 9,
+      "name": {
+        "pa": "ਆਚਾਰ",
+        "en": "Aachaar"
+      },
+      "pdfUrlType": "book",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/011.pdf",
+      "imagePath": "images/audioBooks/bauji/GV-011.jpg",
+      "language": "pa"
+    },
+    "48d2a371-45b6-4d69-bcfd-a2bbc5f216ce": {
+      "authorId": "df75f5b0-0936-44a8-a91b-e31ebb91eddd",
+      "authorOrder": 10,
+      "name": {
+        "pa": "ਧਰਮ ਪ੍ਰਚਾਰ",
+        "en": "Dharam Prachaar"
+      },
+      "pdfUrlType": "chapter",
+      "imagePath": "images/audioBooks/bauji/GV-012.jpg",
+      "language": "pa"
+    },
+    "8bdd05ec-5b25-459d-94d6-de6397f5ea7b": {
+      "authorId": "df75f5b0-0936-44a8-a91b-e31ebb91eddd",
+      "authorOrder": 11,
+      "name": {
+        "pa": "ਗੁਰੂ ਸਤਿਗੁਰੂ",
+        "en": "Guru Satguru"
+      },
+      "pdfUrlType": "chapter",
+      "imagePath": "images/audioBooks/bauji/GV-020.jpg",
+      "language": "pa"
+    },
+    "3896c590-a0cf-4cf4-a014-3d84b2494646": {
+      "authorId": "df75f5b0-0936-44a8-a91b-e31ebb91eddd",
+      "authorOrder": 12,
+      "name": {
+        "pa": "ਜਮ",
+        "en": "Jumm"
+      },
+      "pdfUrlType": "chapter",
+      "imagePath": "images/audioBooks/bauji/GV-022.jpg",
+      "language": "pa"
+    },
+    "b22073dc-6fe7-416d-997b-405d7e276bf7": {
+      "authorId": "df75f5b0-0936-44a8-a91b-e31ebb91eddd",
+      "authorOrder": 13,
+      "name": {
+        "pa": "ਕਰਾਮਾਤ",
+        "en": "Karamaat"
+      },
+      "pdfUrlType": "book",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/024.pdf",
+      "imagePath": "images/audioBooks/bauji/GV-024.jpg",
+      "language": "pa"
+    },
+    "8249d59b-9005-4b8d-b74c-2f40136229ac": {
+      "authorId": "df75f5b0-0936-44a8-a91b-e31ebb91eddd",
+      "authorOrder": 14,
+      "name": {
+        "pa": "ਹੁਕਮੁ",
+        "en": "Hukum"
+      },
+      "pdfUrlType": "chapter",
+      "imagePath": "images/audioBooks/bauji/GV-025.jpg",
+      "language": "pa"
+    },
+    "2af17e4f-9943-46e2-b5a9-1258b96241aa": {
+      "authorId": "df75f5b0-0936-44a8-a91b-e31ebb91eddd",
+      "authorOrder": 15,
+      "name": {
+        "pa": "ਆਤਮਿਕ ਸ਼ਕਤੀ",
+        "en": "Aatmik Shakti"
+      },
+      "pdfUrlType": "book",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/034.pdf",
+      "imagePath": "images/audioBooks/bauji/GV-034.jpg",
+      "language": "pa"
+    },
+    "05a1b7f7-a45a-42c7-98d7-31a66aebc4ff": {
+      "authorId": "df75f5b0-0936-44a8-a91b-e31ebb91eddd",
+      "authorOrder": 16,
+      "name": {
+        "pa": "ਸੋ ਕਿਛੁ ਕਰਿ ਜਿਤੁ ਮੈਲੁ ਨ ਲਾਗੈ ॥",
+        "en": "So Kich Kar Jit Mail Na lagai ||"
+      },
+      "pdfUrlType": "chapter",
+      "imagePath": "images/audioBooks/bauji/GV-035.jpg",
+      "language": "pa"
+    },
+    "16cfbff9-d745-41fc-9b80-67159ebedf99": {
+      "authorId": "df75f5b0-0936-44a8-a91b-e31ebb91eddd",
+      "authorOrder": 17,
+      "name": {
+        "pa": "ਆਤਸ ਦੁਨੀਆ ਖੁਨਕ ਨਾਮੁ ਖੁਦਾਇਆ ॥ ਕਲਿ ਤਾਤੀ ਠਾਂਢਾ ਹਰਿ ਨਾਉ ॥",
+        "en": "Aatash Dunia Khunak Naam Khudaia || Kal Taati Thaanda Har Nao ||"
+      },
+      "pdfUrlType": "chapter",
+      "imagePath": "images/audioBooks/bauji/GV-038.jpg",
+      "language": "pa"
+    },
+    "a9271358-4802-44d1-a2ca-b3c203ecbb9d": {
+      "authorId": "df75f5b0-0936-44a8-a91b-e31ebb91eddd",
+      "authorOrder": 18,
+      "name": {
+        "pa": "ਧਰਮ ਜਾਂ ਮਜ਼ਹਬ",
+        "en": "Dharam Ja(n) Mazhab"
+      },
+      "pdfUrlType": "chapter",
+      "imagePath": "images/audioBooks/bauji/GV-046.jpg",
+      "language": "pa"
+    }
+  },
+  "chapters": {
+    "c2033b09-c206-49db-a50d-d352b1646a1c": {
+      "audioBookId": "f1fc3208-447d-4430-b8a2-9edea995036f",
+      "audioBookOrder": 1,
+      "name": {
+        "pa": "ਭਾਗ 1",
+        "en": "Part 1"
+      },
+      "audioPath": "audio/audioBooks/bauji/001_KK-(1) Gurbani Anbhav.mp3",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "0191c27a-9baf-49d9-ad93-e020f74406c3": {
+      "audioBookId": "eee508e4-7ce3-4e51-9d6f-47ea75c47e1a",
+      "audioBookOrder": 1,
+      "name": {
+        "pa": "ਭਾਗ 1",
+        "en": "Part 1"
+      },
+      "audioPath": "audio/audioBooks/bauji/002_PS-(2) Rosey Giley Part 1.mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/002.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "b801138d-7d55-4d90-8ecc-857db7cf5834": {
+      "audioBookId": "eee508e4-7ce3-4e51-9d6f-47ea75c47e1a",
+      "audioBookOrder": 2,
+      "name": {
+        "pa": "ਭਾਗ 2",
+        "en": "Part 2"
+      },
+      "audioPath": "audio/audioBooks/bauji/003_PS-(3) Rosey Giley Part 2.mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/003.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "36a74a87-34d8-4c91-bc88-2920197eda8b": {
+      "audioBookId": "089393d2-74ca-4f16-9aae-f7ddd6423180",
+      "audioBookOrder": 1,
+      "name": {
+        "pa": "ਭਾਗ 1",
+        "en": "Part 1"
+      },
+      "audioPath": "audio/audioBooks/bauji/004_KK-(4) Maya Dhari Att Anna Bola.mp3",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "e57d8684-4d09-44a2-a4b1-e55fa58eec0e": {
+      "audioBookId": "b612111d-805b-431e-8f82-d468e38202f7",
+      "audioBookOrder": 1,
+      "name": {
+        "pa": "ਭਾਗ 1",
+        "en": "Part 1"
+      },
+      "audioPath": "audio/audioBooks/bauji/005_PS-(5) Thir Ghar Baeso (24.03.07 M).mp3",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "a071d405-2680-45b1-aa75-55cefb2ba30d": {
+      "audioBookId": "f5d5c066-b067-4a83-9194-5ec4c4fe805f",
+      "audioBookOrder": 1,
+      "name": {
+        "pa": "ਭਾਗ 1",
+        "en": "Part 1"
+      },
+      "audioPath": "audio/audioBooks/bauji/006_KK-(6) Raag Naadh Dhuni.mp3",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "59a9cf18-cf21-44b1-b81a-489157cfbb5e": {
+      "audioBookId": "1c566b6c-1e22-4db5-a762-1d015dec5586",
+      "audioBookOrder": 1,
+      "name": {
+        "pa": "ਭਾਗ 1",
+        "en": "Part 1"
+      },
+      "audioPath": "audio/audioBooks/bauji/007_KK-(7) Karo Jatan Je Hoe Meharvana [9 Sep 1997].mp3",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "673d9623-3ea1-4cc8-8ac6-bff4529382d9": {
+      "audioBookId": "1d6faa9a-7bb2-4819-8f3a-f38d7843fe5f",
+      "audioBookOrder": 1,
+      "name": {
+        "pa": "ਭਾਗ 1",
+        "en": "Part 1"
+      },
+      "audioPath": "audio/audioBooks/bauji/008_KK-(8) Gurparsad.mp3",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "3ea73e75-b13e-480f-a58a-392e585b8a92": {
+      "audioBookId": "3745322f-b2f8-4c1a-bb26-bc693d248471",
+      "audioBookOrder": 1,
+      "name": {
+        "pa": "ਭਾਗ 1",
+        "en": "Part 1"
+      },
+      "audioPath": "audio/audioBooks/bauji/009_KK-(9) Haumey Part 1 [24 Mar 2000].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/009.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "0fef53bd-5926-4f2f-8b05-bc4c19feff4b": {
+      "audioBookId": "3745322f-b2f8-4c1a-bb26-bc693d248471",
+      "audioBookOrder": 2,
+      "name": {
+        "pa": "ਭਾਗ 2",
+        "en": "Part 2"
+      },
+      "audioPath": "audio/audioBooks/bauji/010_KK-(10) Haumey Part 2 [26 Mar 1997].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/010.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "9021e76f-b2b9-4af9-8b9f-a5c53c40fe3e": {
+      "audioBookId": "3400996e-b74c-4db8-9efc-c131db11255f",
+      "audioBookOrder": 1,
+      "name": {
+        "pa": "ਭਾਗ 1",
+        "en": "Part 1"
+      },
+      "audioPath": "audio/audioBooks/bauji/011_KK-(11) Aachaar [8 Sep 1997].mp3",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "862ce4a2-8cad-4c43-955f-d94b3a3e01fa": {
+      "audioBookId": "48d2a371-45b6-4d69-bcfd-a2bbc5f216ce",
+      "audioBookOrder": 1,
+      "name": {
+        "pa": "ਭਾਗ 1-2",
+        "en": "Part 1-2"
+      },
+      "audioPath": "audio/audioBooks/bauji/012 KK - (12) Dharam Prachar Part - 1&2.mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/012.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "0b43f7a6-d3b0-442f-a197-01b9d9a62b00": {
+      "audioBookId": "48d2a371-45b6-4d69-bcfd-a2bbc5f216ce",
+      "audioBookOrder": 2,
+      "name": {
+        "pa": "ਭਾਗ 3",
+        "en": "Part 3"
+      },
+      "audioPath": "audio/audioBooks/bauji/013_PS-(13)  Dharam Parchar Part-3.mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/013.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "d9aa3707-649b-4642-82eb-2a92e9c10afc": {
+      "audioBookId": "48d2a371-45b6-4d69-bcfd-a2bbc5f216ce",
+      "audioBookOrder": 3,
+      "name": {
+        "pa": "ਭਾਗ 4",
+        "en": "Part 4"
+      },
+      "audioPath": "audio/audioBooks/bauji/014_PS-(14)  Dharam Parchar Part-4.mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/014.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "64d1c9d9-de9a-4da1-afe4-0ad2b248e4ad": {
+      "audioBookId": "48d2a371-45b6-4d69-bcfd-a2bbc5f216ce",
+      "audioBookOrder": 4,
+      "name": {
+        "pa": "ਭਾਗ 5",
+        "en": "Part 5"
+      },
+      "audioPath": "audio/audioBooks/bauji/015_PS-(15) Dharam Parchar Part-5 [27 Dec 2002].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/015.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "e315222c-b947-4a05-a486-8aaf4e5e3538": {
+      "audioBookId": "48d2a371-45b6-4d69-bcfd-a2bbc5f216ce",
+      "audioBookOrder": 5,
+      "name": {
+        "pa": "ਭਾਗ 6",
+        "en": "Part 6"
+      },
+      "audioPath": "audio/audioBooks/bauji/016_PS-(16) Dharam Parchar Part-6.mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/016.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "04810f7c-56d2-43b5-b191-ee9255a19630": {
+      "audioBookId": "48d2a371-45b6-4d69-bcfd-a2bbc5f216ce",
+      "audioBookOrder": 6,
+      "name": {
+        "pa": "ਭਾਗ 7",
+        "en": "Part 7"
+      },
+      "audioPath": "audio/audioBooks/bauji/017_PS-(17) Dharam Parchar Part-7 [27 Dec 2002].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/017.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "82d3ef02-993a-423d-a5a6-9a0d69f69f02": {
+      "audioBookId": "48d2a371-45b6-4d69-bcfd-a2bbc5f216ce",
+      "audioBookOrder": 7,
+      "name": {
+        "pa": "ਭਾਗ 8",
+        "en": "Part 8"
+      },
+      "audioPath": "audio/audioBooks/bauji/018_PS-(18) Dharam Parchar Part-8 [12 Aug 1997].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/018.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "00aa8fac-bc31-48d9-816e-9d8768430650": {
+      "audioBookId": "48d2a371-45b6-4d69-bcfd-a2bbc5f216ce",
+      "audioBookOrder": 8,
+      "name": {
+        "pa": "ਭਾਗ 9",
+        "en": "Part 9"
+      },
+      "audioPath": "audio/audioBooks/bauji/019_PS-(19)  Dharam Parchar Part-9.mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/019.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "06c1c565-174b-4c36-b51d-fa07bd76ed9b": {
+      "audioBookId": "8bdd05ec-5b25-459d-94d6-de6397f5ea7b",
+      "audioBookOrder": 1,
+      "name": {
+        "pa": "ਭਾਗ 1",
+        "en": "Part 1"
+      },
+      "audioPath": "audio/audioBooks/bauji/020_PS-(20) Guru Satguru Part-1 [24 Mar 2000].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/020.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "91ebdbfd-1838-48a6-aef9-1c454a49759d": {
+      "audioBookId": "8bdd05ec-5b25-459d-94d6-de6397f5ea7b",
+      "audioBookOrder": 2,
+      "name": {
+        "pa": "ਭਾਗ 2",
+        "en": "Part 2"
+      },
+      "audioPath": "audio/audioBooks/bauji/021_PS-(21) Guru Satguru Part-2 [25 Mar 1998].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/021.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "1cc6e260-b682-4f5d-b7e6-d3aeebfae3e9": {
+      "audioBookId": "3896c590-a0cf-4cf4-a014-3d84b2494646",
+      "audioBookOrder": 1,
+      "name": {
+        "pa": "ਭਾਗ 1",
+        "en": "Part 1"
+      },
+      "audioPath": "audio/audioBooks/bauji/022_PS-(22) Jumm Part-1 [21 Dec 2000].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/022.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "b1df1e85-2dd1-4735-91b7-c441f4a6d511": {
+      "audioBookId": "3896c590-a0cf-4cf4-a014-3d84b2494646",
+      "audioBookOrder": 2,
+      "name": {
+        "pa": "ਭਾਗ 2",
+        "en": "Part 2"
+      },
+      "audioPath": "audio/audioBooks/bauji/023_PS-(23) Jumm Part-2 [10 Sep 1997].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/023.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "7b56c7af-67ec-4757-9b17-80b5f0f08b1e": {
+      "audioBookId": "b22073dc-6fe7-416d-997b-405d7e276bf7",
+      "audioBookOrder": 1,
+      "name": {
+        "pa": "ਭਾਗ 1",
+        "en": "Part 1"
+      },
+      "audioPath": "audio/audioBooks/bauji/024_KK-(24) Karamat [9 Sep 2001].mp3",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "06bd461b-cd29-401a-aa6b-8c5b4ed6f569": {
+      "audioBookId": "8249d59b-9005-4b8d-b74c-2f40136229ac",
+      "audioBookOrder": 1,
+      "name": {
+        "pa": "ਭਾਗ 1",
+        "en": "Part 1"
+      },
+      "audioPath": "audio/audioBooks/bauji/025_KK-(25) Hukam Part-1.mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/025.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "ddd5ad86-57dd-4931-9043-e8fce5e3e76b": {
+      "audioBookId": "8249d59b-9005-4b8d-b74c-2f40136229ac",
+      "audioBookOrder": 2,
+      "name": {
+        "pa": "ਭਾਗ 2",
+        "en": "Part 2"
+      },
+      "audioPath": "audio/audioBooks/bauji/026_KK-(26) Hukam Part-2 [12 Sep 1998].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/026.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "bc921ab4-78a3-4f5a-a965-eb679ce6ef36": {
+      "audioBookId": "8249d59b-9005-4b8d-b74c-2f40136229ac",
+      "audioBookOrder": 3,
+      "name": {
+        "pa": "ਭਾਗ 3",
+        "en": "Part 3"
+      },
+      "audioPath": "audio/audioBooks/bauji/027_KK-(27) Hukam Part-3 [20 Mar 2000].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/027.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "37026cff-b0bb-413e-b4c3-f944a756ea94": {
+      "audioBookId": "8249d59b-9005-4b8d-b74c-2f40136229ac",
+      "audioBookOrder": 4,
+      "name": {
+        "pa": "ਭਾਗ 4",
+        "en": "Part 4"
+      },
+      "audioPath": "audio/audioBooks/bauji/028_KK-(28) Hukam Part-4 [11 Sep 1999].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/028.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "8404011b-f7f6-4e7c-880d-8b1fde879232": {
+      "audioBookId": "8249d59b-9005-4b8d-b74c-2f40136229ac",
+      "audioBookOrder": 5,
+      "name": {
+        "pa": "ਭਾਗ 5",
+        "en": "Part 5"
+      },
+      "audioPath": "audio/audioBooks/bauji/029_KK-(29) Hukam Part-5 [25 Dec 2004].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/029.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "efaf40cb-114d-4c5a-884b-1a3ee7e48b7e": {
+      "audioBookId": "8249d59b-9005-4b8d-b74c-2f40136229ac",
+      "audioBookOrder": 6,
+      "name": {
+        "pa": "ਭਾਗ 6",
+        "en": "Part 6"
+      },
+      "audioPath": "audio/audioBooks/bauji/030_KK-(30) Hukam Part-6 [21 Dec 2004].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/030.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "f89e18ff-41b6-4fa1-b988-c300f8f1f2f9": {
+      "audioBookId": "8249d59b-9005-4b8d-b74c-2f40136229ac",
+      "audioBookOrder": 7,
+      "name": {
+        "pa": "ਭਾਗ 7",
+        "en": "Part 7"
+      },
+      "audioPath": "audio/audioBooks/bauji/031_KK-(31) Hukum Part-7 [23 Dec 04].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/031.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "581e836f-755b-4253-a912-3493f5723394": {
+      "audioBookId": "8249d59b-9005-4b8d-b74c-2f40136229ac",
+      "audioBookOrder": 8,
+      "name": {
+        "pa": "ਭਾਗ 8",
+        "en": "Part 8"
+      },
+      "audioPath": "audio/audioBooks/bauji/032_KK-(32) Hukam Part-8 [22 Mar 2000].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/032.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "42c433e8-9c2e-4743-b135-d21d6a1ec557": {
+      "audioBookId": "8249d59b-9005-4b8d-b74c-2f40136229ac",
+      "audioBookOrder": 9,
+      "name": {
+        "pa": "ਭਾਗ 9",
+        "en": "Part 9"
+      },
+      "audioPath": "audio/audioBooks/bauji/033_KK-(33) Hukam Part-9 [28 Dec 2003].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/033.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "a382c71f-0fa5-4d50-85a9-64bc43856717": {
+      "audioBookId": "2af17e4f-9943-46e2-b5a9-1258b96241aa",
+      "audioBookOrder": 1,
+      "name": {
+        "pa": "ਭਾਗ 1",
+        "en": "Part 1"
+      },
+      "audioPath": "audio/audioBooks/bauji/034_KK-(34) Atmik Shakti.mp3",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "040d87ce-f890-47d4-aa1a-b31a52b0eda4": {
+      "audioBookId": "05a1b7f7-a45a-42c7-98d7-31a66aebc4ff",
+      "audioBookOrder": 1,
+      "name": {
+        "pa": "ਭਾਗ 1",
+        "en": "Part 1"
+      },
+      "audioPath": "audio/audioBooks/bauji/035_KK-(35) So Kich Kar Jit Mehl Na Lageh Part 1 [5 Sep 1999].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/035.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "93cd4807-8f36-4bb6-949a-863a43deca61": {
+      "audioBookId": "05a1b7f7-a45a-42c7-98d7-31a66aebc4ff",
+      "audioBookOrder": 2,
+      "name": {
+        "pa": "ਭਾਗ 2",
+        "en": "Part 2"
+      },
+      "audioPath": "audio/audioBooks/bauji/036_KK-(36) So Kich Kar Jit Mehl Na Lageh Part 2 [7 Sep 1999].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/036.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "097713b5-476a-42e4-9e16-913e2a037990": {
+      "audioBookId": "05a1b7f7-a45a-42c7-98d7-31a66aebc4ff",
+      "audioBookOrder": 3,
+      "name": {
+        "pa": "ਭਾਗ 3",
+        "en": "Part 3"
+      },
+      "audioPath": "audio/audioBooks/bauji/037_KK-(37) So Kich Kar Jit Mehl Na Lageh Part 3.mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/037.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "5aa6657e-23ae-488c-8fbc-4848e460f8ab": {
+      "audioBookId": "16cfbff9-d745-41fc-9b80-67159ebedf99",
+      "audioBookOrder": 1,
+      "name": {
+        "pa": "ਭਾਗ 1",
+        "en": "Part 1"
+      },
+      "audioPath": "audio/audioBooks/bauji/038_PS-(38) Atish Dunnia Khunak Naam Part-1 [23 Dec  1997].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/038.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "2dc7022f-90ec-487e-94ce-51095c0d2569": {
+      "audioBookId": "16cfbff9-d745-41fc-9b80-67159ebedf99",
+      "audioBookOrder": 2,
+      "name": {
+        "pa": "ਭਾਗ 2",
+        "en": "Part 2"
+      },
+      "audioPath": "audio/audioBooks/bauji/039_PS-(39) Atish Dunnia Khunak Naam Part-2 [24 Mar 2005].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/039.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "cfbaa3b1-0076-42db-8fa7-3a498e770596": {
+      "audioBookId": "16cfbff9-d745-41fc-9b80-67159ebedf99",
+      "audioBookOrder": 3,
+      "name": {
+        "pa": "ਭਾਗ 3",
+        "en": "Part 3"
+      },
+      "audioPath": "audio/audioBooks/bauji/040_PS-(40) Atish Dunnia Khunak Naam Part-3 [28 Dec 1999].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/040.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "7272ba3f-f13e-4d32-b7fd-c98c4d9528ed": {
+      "audioBookId": "16cfbff9-d745-41fc-9b80-67159ebedf99",
+      "audioBookOrder": 4,
+      "name": {
+        "pa": "ਭਾਗ 4",
+        "en": "Part 4"
+      },
+      "audioPath": "audio/audioBooks/bauji/041_PS-(41) Atish Dunnia Khunak Naam Part-4 [16 Sep 2002].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/041.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "012dabcd-5239-44b6-941f-1f0407bc4e46": {
+      "audioBookId": "16cfbff9-d745-41fc-9b80-67159ebedf99",
+      "audioBookOrder": 5,
+      "name": {
+        "pa": "ਭਾਗ 5",
+        "en": "Part 5"
+      },
+      "audioPath": "audio/audioBooks/bauji/042_PS-(42) Atish Dunnia Khunak Naam Part-5.mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/042.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "31044a27-7acd-4af7-96af-a337939e8e48": {
+      "audioBookId": "16cfbff9-d745-41fc-9b80-67159ebedf99",
+      "audioBookOrder": 6,
+      "name": {
+        "pa": "ਭਾਗ 6",
+        "en": "Part 6"
+      },
+      "audioPath": "audio/audioBooks/bauji/043_PS-(43) Atish Dunnia Khunak Naam Part-6 [16 Sep 2006].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/043.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "916d1506-39cf-494a-96ae-7c39feec002f": {
+      "audioBookId": "16cfbff9-d745-41fc-9b80-67159ebedf99",
+      "audioBookOrder": 7,
+      "name": {
+        "pa": "ਭਾਗ 7",
+        "en": "Part 7"
+      },
+      "audioPath": "audio/audioBooks/bauji/044_PS-(44) Atish Dunnia Khunak Naam Part-7 [23 Mar 2005].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/044.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "c563daf9-99d5-4541-99ac-23e180b38744": {
+      "audioBookId": "16cfbff9-d745-41fc-9b80-67159ebedf99",
+      "audioBookOrder": 8,
+      "name": {
+        "pa": "ਭਾਗ 8",
+        "en": "Part 8"
+      },
+      "audioPath": "audio/audioBooks/bauji/045_PS-(45) Atish Dunnia Khunak Naam Part-8 [24 Mar 1998].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/045.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "f955baf3-1076-4b33-879d-16e8411f851e": {
+      "audioBookId": "a9271358-4802-44d1-a2ca-b3c203ecbb9d",
+      "audioBookOrder": 1,
+      "name": {
+        "pa": "ਭਾਗ 1",
+        "en": "Part 1"
+      },
+      "audioPath": "audio/audioBooks/bauji/046_KK-(46) Dharam Ya Mazhab Part-1 [21 Dec 1999].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/046.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "2df216fa-7c66-44a2-a003-2f712ea17cbb": {
+      "audioBookId": "a9271358-4802-44d1-a2ca-b3c203ecbb9d",
+      "audioBookOrder": 2,
+      "name": {
+        "pa": "ਭਾਗ 2",
+        "en": "Part 2"
+      },
+      "audioPath": "audio/audioBooks/bauji/047_KK-(47) Dharam Ya Mazhab Part-2 [22 Dec 1999].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/047.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "3c54563e-183d-4c4b-95c5-64705e411cc1": {
+      "audioBookId": "a9271358-4802-44d1-a2ca-b3c203ecbb9d",
+      "audioBookOrder": 3,
+      "name": {
+        "pa": "ਭਾਗ 3",
+        "en": "Part 3"
+      },
+      "audioPath": "audio/audioBooks/bauji/048_KK-(48) Dharam Ya Mazhab Part-3 [23 Dec 1999].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/048.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "935fbfed-1edb-4b2d-bdfd-f3ae8090d7ba": {
+      "audioBookId": "a9271358-4802-44d1-a2ca-b3c203ecbb9d",
+      "audioBookOrder": 4,
+      "name": {
+        "pa": "ਭਾਗ 4",
+        "en": "Part 4"
+      },
+      "audioPath": "audio/audioBooks/bauji/049_KK-(49)  Dharam Ya Mazhab Part-4.mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/049.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "48b23294-4985-4422-b334-426944474a63": {
+      "audioBookId": "a9271358-4802-44d1-a2ca-b3c203ecbb9d",
+      "audioBookOrder": 5,
+      "name": {
+        "pa": "ਭਾਗ 5",
+        "en": "Part 5"
+      },
+      "audioPath": "audio/audioBooks/bauji/050_KK-(50) Dharam Ya Mazhab Part-5 [27 Dec 1999].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/050.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "ab0664df-3378-4eb8-b6a1-dbaecb8446bd": {
+      "audioBookId": "a9271358-4802-44d1-a2ca-b3c203ecbb9d",
+      "audioBookOrder": 6,
+      "name": {
+        "pa": "ਭਾਗ 6",
+        "en": "Part 6"
+      },
+      "audioPath": "audio/audioBooks/bauji/051_PS-(51) Dharam Ya Mazhab part-6 [11 Sep 2000].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/051.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "27ffc14e-62d1-4011-821b-b08a5a4f6323": {
+      "audioBookId": "a9271358-4802-44d1-a2ca-b3c203ecbb9d",
+      "audioBookOrder": 7,
+      "name": {
+        "pa": "ਭਾਗ 7",
+        "en": "Part 7"
+      },
+      "audioPath": "audio/audioBooks/bauji/052_KK-(52) Dharam Ya Mazhab Part-7 [26.12.04]E.mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/052.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "ba137afe-db3c-4ef8-8e67-8310950b7475": {
+      "audioBookId": "a9271358-4802-44d1-a2ca-b3c203ecbb9d",
+      "audioBookOrder": 8,
+      "name": {
+        "pa": "ਭਾਗ 8",
+        "en": "Part 8"
+      },
+      "audioPath": "audio/audioBooks/bauji/053_KK-(53) Dharam Ya Mazhab Part-8 [14 Sep 2003].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/053.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "2306a41f-7e3e-4894-8320-5d27294a98f1": {
+      "audioBookId": "a9271358-4802-44d1-a2ca-b3c203ecbb9d",
+      "audioBookOrder": 9,
+      "name": {
+        "pa": "ਭਾਗ 9",
+        "en": "Part 9"
+      },
+      "audioPath": "audio/audioBooks/bauji/054_PS-(54) Dharam Ya Mazhab Part-9 (10 Sep 2000).mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/054.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "71f4c6c8-66b8-40c6-b740-77e060d8e7b3": {
+      "audioBookId": "a9271358-4802-44d1-a2ca-b3c203ecbb9d",
+      "audioBookOrder": 10,
+      "name": {
+        "pa": "ਭਾਗ 10",
+        "en": "Part 10"
+      },
+      "audioPath": "audio/audioBooks/bauji/055_KK-(55) Dharam Ya Majhab Part-10 [6 Sep 1998].mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/055.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    "e8696db4-41ea-46b0-a9ea-78f65aef8702": {
+      "audioBookId": "a9271358-4802-44d1-a2ca-b3c203ecbb9d",
+      "audioBookOrder": 11,
+      "name": {
+        "pa": "ਭਾਗ 11",
+        "en": "Part 11"
+      },
+      "audioPath": "audio/audioBooks/bauji/056_PS-(56) Dharam Ya Mazhab Part-11.mp3",
+      "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/056.pdf",
+      "duration": {
+        "minutes": 0,
+        "seconds": 0
       }
     }
   }
