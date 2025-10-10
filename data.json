@@ -315,10 +315,10 @@
         "pa": "ਭਾਗ 1",
         "en": "Part 1"
       },
-      "audioPath": "audio/audioBooks/bauji/001_KK-(1) Gurbani Anbhav.mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/01%20SSJ%20-%20GV%201%20Gurbani%20Anubhav%20%2830.03.17%29M.mp3",
       "duration": {
-        "minutes": 39,
-        "seconds": 49
+        "minutes": 35,
+        "seconds": 22
       }
     },
     {
@@ -329,11 +329,11 @@
         "pa": "ਭਾਗ 1",
         "en": "Part 1"
       },
-      "audioPath": "audio/audioBooks/bauji/002_PS-(2) Rosey Giley Part 1.mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/02%20SSJ%20-%20GV%202%20Rosey%20Giley%20Part%201%20%2812.09.11%29M.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/002.pdf",
       "duration": {
-        "minutes": 38,
-        "seconds": 20
+        "minutes": 31,
+        "seconds": 56
       }
     },
     {
@@ -344,11 +344,11 @@
         "pa": "ਭਾਗ 2",
         "en": "Part 2"
       },
-      "audioPath": "audio/audioBooks/bauji/003_PS-(3) Rosey Giley Part 2.mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/03%20TPS%20-%20GV%20-%203%20Rosey%20Giley%20Part%20-%202%20%2830-3-17%29E.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/003.pdf",
       "duration": {
-        "minutes": 48,
-        "seconds": 34
+        "minutes": 32,
+        "seconds": 31
       }
     },
     {
@@ -359,10 +359,10 @@
         "pa": "ਭਾਗ 1",
         "en": "Part 1"
       },
-      "audioPath": "audio/audioBooks/bauji/004_KK-(4) Maya Dhari Att Anna Bola.mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/04%20KK%20-%20GV%204%20Maiadhari%20Att%20Anna%20Bola%20%5B28-03-09%5DM.mp3",
       "duration": {
-        "minutes": 35,
-        "seconds": 23
+        "minutes": 34,
+        "seconds": 28
       }
     },
     {
@@ -373,10 +373,10 @@
         "pa": "ਭਾਗ 1",
         "en": "Part 1"
       },
-      "audioPath": "audio/audioBooks/bauji/005_PS-(5) Thir Ghar Baeso (24.03.07 M).mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/05%20HPSD%20-%20GV%205%20Thir%20Ghar%20Basoh%20Har%20Jan%20Piare%20%281-3-16%29E.mp3",
       "duration": {
-        "minutes": 32,
-        "seconds": 28
+        "minutes": 31,
+        "seconds": 39
       }
     },
     {
@@ -387,10 +387,10 @@
         "pa": "ਭਾਗ 1",
         "en": "Part 1"
       },
-      "audioPath": "audio/audioBooks/bauji/006_KK-(6) Raag Naadh Dhuni.mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/06%20HPSD%20-%20G.V%20-%206%20Raag%20Naad%20Duni%20%2820.9.14%29E.mp3",
       "duration": {
-        "minutes": 37,
-        "seconds": 46
+        "minutes": 31,
+        "seconds": 53
       }
     },
     {
@@ -401,10 +401,10 @@
         "pa": "ਭਾਗ 1",
         "en": "Part 1"
       },
-      "audioPath": "audio/audioBooks/bauji/007_KK-(7) Karo Jatan Je Hoe Meharvana [9 Sep 1997].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/07%20HPSD%20-%20GV%207%20Karo%20Jatan%20Je%20Hoae%20Meharvana%20%2820.12.13%29E.mp3",
       "duration": {
-        "minutes": 30,
-        "seconds": 54
+        "minutes": 29,
+        "seconds": 9
       }
     },
     {
@@ -415,10 +415,10 @@
         "pa": "ਭਾਗ 1",
         "en": "Part 1"
       },
-      "audioPath": "audio/audioBooks/bauji/008_KK-(8) Gurparsad.mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/08%20HPSD%20-%20GV%208%20Gur%20Parsad%20%2824.12.13%29E.mp3",
       "duration": {
-        "minutes": 47,
-        "seconds": 5
+        "minutes": 35,
+        "seconds": 6
       }
     },
     {
@@ -429,11 +429,11 @@
         "pa": "ਭਾਗ 1",
         "en": "Part 1"
       },
-      "audioPath": "audio/audioBooks/bauji/009_KK-(9) Haumey Part 1 [24 Mar 2000].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/09%20TPS%20-%20GV%209%20Homay%20Part%201%20%2823.12.11%29E.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/009.pdf",
       "duration": {
         "minutes": 32,
-        "seconds": 41
+        "seconds": 10
       }
     },
     {
@@ -444,7 +444,7 @@
         "pa": "ਭਾਗ 2",
         "en": "Part 2"
       },
-      "audioPath": "audio/audioBooks/bauji/010_KK-(10) Haumey Part 2 [26 Mar 1997].mp3",
+      "audioPath": "http://www.gurbanivichar.com/multimedia/GV/010_KK-(10)%20Haumey%20Part%202%20%5B26%20Mar%201997%5D.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/010.pdf",
       "duration": {
         "minutes": 31,
@@ -459,10 +459,10 @@
         "pa": "ਭਾਗ 1",
         "en": "Part 1"
       },
-      "audioPath": "audio/audioBooks/bauji/011_KK-(11) Aachaar [8 Sep 1997].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/11%20KK%20-%20GV%2011%20Aachar%20%2824-3-13%29%20M.mp3",
       "duration": {
-        "minutes": 40,
-        "seconds": 9
+        "minutes": 36,
+        "seconds": 20
       }
     },
     {
@@ -473,7 +473,7 @@
         "pa": "ਭਾਗ 1-2",
         "en": "Part 1-2"
       },
-      "audioPath": "audio/audioBooks/bauji/012 KK - (12) Dharam Prachar Part - 1&2.mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/12%20KK%20-%20GV%2012%20Dharam%20Prachar%20Part%20-%201%262.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/012.pdf",
       "duration": {
         "minutes": 44,
@@ -488,11 +488,11 @@
         "pa": "ਭਾਗ 3",
         "en": "Part 3"
       },
-      "audioPath": "audio/audioBooks/bauji/013_PS-(13)  Dharam Parchar Part-3.mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/13%20TPS%20-%20GV%2013%20Dharam%20Parchar%20Part%203%2821.12.13%29M.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/013.pdf",
       "duration": {
-        "minutes": 40,
-        "seconds": 25
+        "minutes": 43,
+        "seconds": 12
       }
     },
     {
@@ -503,11 +503,11 @@
         "pa": "ਭਾਗ 4",
         "en": "Part 4"
       },
-      "audioPath": "audio/audioBooks/bauji/014_PS-(14)  Dharam Parchar Part-4.mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/14%20SKL%20-%20GV-14%20Dharam%20Prachar%20Part%20-%204%20%2824.3.14%29E.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/014.pdf",
       "duration": {
         "minutes": 41,
-        "seconds": 7
+        "seconds": 17
       }
     },
     {
@@ -518,11 +518,11 @@
         "pa": "ਭਾਗ 5",
         "en": "Part 5"
       },
-      "audioPath": "audio/audioBooks/bauji/015_PS-(15) Dharam Parchar Part-5 [27 Dec 2002].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/15%20HKR%20-%20GV%2015%20Dharam%20Prachar%20Part%20-%205%20%282-10-15%29E.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/015.pdf",
       "duration": {
-        "minutes": 47,
-        "seconds": 3
+        "minutes": 40,
+        "seconds": 57
       }
     },
     {
@@ -533,11 +533,11 @@
         "pa": "ਭਾਗ 6",
         "en": "Part 6"
       },
-      "audioPath": "audio/audioBooks/bauji/016_PS-(16) Dharam Parchar Part-6.mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/16%20SSJ%20-%20GV%2016%20Dharam%20Prachar%20Part%20-%206%20%2823.9.06%20E%29.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/016.pdf",
       "duration": {
-        "minutes": 36,
-        "seconds": 30
+        "minutes": 33,
+        "seconds": 54
       }
     },
     {
@@ -548,11 +548,11 @@
         "pa": "ਭਾਗ 7",
         "en": "Part 7"
       },
-      "audioPath": "audio/audioBooks/bauji/017_PS-(17) Dharam Parchar Part-7 [27 Dec 2002].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/17%20SKL%20-%20GV%2017%20Dharam%20Parchaar%20Part%207%20%2821.12.13%29E.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/017.pdf",
       "duration": {
-        "minutes": 34,
-        "seconds": 44
+        "minutes": 30,
+        "seconds": 3
       }
     },
     {
@@ -563,11 +563,11 @@
         "pa": "ਭਾਗ 8",
         "en": "Part 8"
       },
-      "audioPath": "audio/audioBooks/bauji/018_PS-(18) Dharam Parchar Part-8 [12 Aug 1997].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/18%20KK%20-%20GV%2018%20Dharam%20Prachar%20Part%20-%208%20%2809-06-09%29%20M.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/018.pdf",
       "duration": {
-        "minutes": 34,
-        "seconds": 59
+        "minutes": 38,
+        "seconds": 41
       }
     },
     {
@@ -578,11 +578,11 @@
         "pa": "ਭਾਗ 9",
         "en": "Part 9"
       },
-      "audioPath": "audio/audioBooks/bauji/019_PS-(19)  Dharam Parchar Part-9.mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/19%20SKL%20-%20GV%2019%20Dharam%20Parchar%20Part%209%20%2813.09.11%29E.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/019.pdf",
       "duration": {
-        "minutes": 39,
-        "seconds": 41
+        "minutes": 36,
+        "seconds": 46
       }
     },
     {
@@ -593,11 +593,11 @@
         "pa": "ਭਾਗ 1",
         "en": "Part 1"
       },
-      "audioPath": "audio/audioBooks/bauji/020_PS-(20) Guru Satguru Part-1 [24 Mar 2000].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/20%20SKL%20-%20GV%2020%20Guru%20Satguru%20Part%20-%201%20%2829-3-17%29E.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/020.pdf",
       "duration": {
-        "minutes": 31,
-        "seconds": 58
+        "minutes": 34,
+        "seconds": 52
       }
     },
     {
@@ -608,11 +608,11 @@
         "pa": "ਭਾਗ 2",
         "en": "Part 2"
       },
-      "audioPath": "audio/audioBooks/bauji/021_PS-(21) Guru Satguru Part-2 [25 Mar 1998].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/21%20SKL%20-%20GV%2021%20Guru%20Satguru%20Part%20-%202%20%2830-12-10%29%20E.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/021.pdf",
       "duration": {
         "minutes": 27,
-        "seconds": 45
+        "seconds": 44
       }
     },
     {
@@ -623,11 +623,11 @@
         "pa": "ਭਾਗ 1",
         "en": "Part 1"
       },
-      "audioPath": "audio/audioBooks/bauji/022_PS-(22) Jumm Part-1 [21 Dec 2000].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/22%20KK%20-%20GV%2022%20Jum%20Part%20-%201%20%2825-9-14%29M.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/022.pdf",
       "duration": {
         "minutes": 31,
-        "seconds": 48
+        "seconds": 33
       }
     },
     {
@@ -638,11 +638,11 @@
         "pa": "ਭਾਗ 2",
         "en": "Part 2"
       },
-      "audioPath": "audio/audioBooks/bauji/023_PS-(23) Jumm Part-2 [10 Sep 1997].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/23%20HKR%20-%20GV%2023%20Jam%20Part%20-%202%20%2821.12.14%29E.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/023.pdf",
       "duration": {
-        "minutes": 31,
-        "seconds": 26
+        "minutes": 25,
+        "seconds": 13
       }
     },
     {
@@ -653,9 +653,9 @@
         "pa": "ਭਾਗ 1",
         "en": "Part 1"
       },
-      "audioPath": "audio/audioBooks/bauji/024_KK-(24) Karamat [9 Sep 2001].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/24%20KK%20-%20GV%2024%20Karamat%20%2829-5-11%29%20E.mp3",
       "duration": {
-        "minutes": 46,
+        "minutes": 38,
         "seconds": 10
       }
     },
@@ -667,7 +667,7 @@
         "pa": "ਭਾਗ 1",
         "en": "Part 1"
       },
-      "audioPath": "audio/audioBooks/bauji/025_KK-(25) Hukam Part-1.mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/25%20KK%20-%20%20GV%2025%20Hukam%20Part-1.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/025.pdf",
       "duration": {
         "minutes": 31,
@@ -682,7 +682,7 @@
         "pa": "ਭਾਗ 2",
         "en": "Part 2"
       },
-      "audioPath": "audio/audioBooks/bauji/026_KK-(26) Hukam Part-2 [12 Sep 1998].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/26%20KK%20-%20GV%2026%20Hukam%20Part-2%20%2812%20Sep%201998%29.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/026.pdf",
       "duration": {
         "minutes": 49,
@@ -697,11 +697,11 @@
         "pa": "ਭਾਗ 3",
         "en": "Part 3"
       },
-      "audioPath": "audio/audioBooks/bauji/027_KK-(27) Hukam Part-3 [20 Mar 2000].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/27%20CKSL%20-%20GV%2027%20Hukam%20Part%203%20%2821.12.14%29M.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/027.pdf",
       "duration": {
-        "minutes": 37,
-        "seconds": 28
+        "minutes": 34,
+        "seconds": 30
       }
     },
     {
@@ -712,7 +712,7 @@
         "pa": "ਭਾਗ 4",
         "en": "Part 4"
       },
-      "audioPath": "audio/audioBooks/bauji/028_KK-(28) Hukam Part-4 [11 Sep 1999].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/28%20KK%20-%20GV%2028%20Hukam%20Part-4%20%2811%20Sep%201999%29.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/028.pdf",
       "duration": {
         "minutes": 30,
@@ -727,11 +727,11 @@
         "pa": "ਭਾਗ 5",
         "en": "Part 5"
       },
-      "audioPath": "audio/audioBooks/bauji/029_KK-(29) Hukam Part-5 [25 Dec 2004].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/29%20KK%20-%20GV%2029%20Hukam%20Part%205%20%2825%20Dec%202004%29.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/029.pdf",
       "duration": {
         "minutes": 30,
-        "seconds": 43
+        "seconds": 32
       }
     },
     {
@@ -742,11 +742,11 @@
         "pa": "ਭਾਗ 6",
         "en": "Part 6"
       },
-      "audioPath": "audio/audioBooks/bauji/030_KK-(30) Hukam Part-6 [21 Dec 2004].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/30%20HKR%20-%20GV%2030%20Hukam%20Part%206%20%2823-12-11%29M.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/030.pdf",
       "duration": {
-        "minutes": 33,
-        "seconds": 56
+        "minutes": 28,
+        "seconds": 37
       }
     },
     {
@@ -757,7 +757,7 @@
         "pa": "ਭਾਗ 7",
         "en": "Part 7"
       },
-      "audioPath": "audio/audioBooks/bauji/031_KK-(31) Hukum Part-7 [23 Dec 04].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/31%20KK%20-%20GV%2031%20Hukum%20Part%20-7%20%2823%20Dec%2004%29.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/031.pdf",
       "duration": {
         "minutes": 37,
@@ -772,11 +772,11 @@
         "pa": "ਭਾਗ 8",
         "en": "Part 8"
       },
-      "audioPath": "audio/audioBooks/bauji/032_KK-(32) Hukam Part-8 [22 Mar 2000].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/32%20%20HKR%20-%20GV%2032%20Hukam%20Part%20-%208%20%2829.12.13%29E.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/032.pdf",
       "duration": {
-        "minutes": 30,
-        "seconds": 17
+        "minutes": 29,
+        "seconds": 49
       }
     },
     {
@@ -787,11 +787,11 @@
         "pa": "ਭਾਗ 9",
         "en": "Part 9"
       },
-      "audioPath": "audio/audioBooks/bauji/033_KK-(33) Hukam Part-9 [28 Dec 2003].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/33%20SSJ%20-%20GV%2033%20Hukam%20Part%20-%209%20%2825-3-08%20M%29.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/033.pdf",
       "duration": {
-        "minutes": 28,
-        "seconds": 38
+        "minutes": 30,
+        "seconds": 8
       }
     },
     {
@@ -802,10 +802,10 @@
         "pa": "ਭਾਗ 1",
         "en": "Part 1"
       },
-      "audioPath": "audio/audioBooks/bauji/034_KK-(34) Atmik Shakti.mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/34%20HPSD%20-%20GV%2034%20Aatmik%20Shakti%20%2822.09.13%29E.mp3",
       "duration": {
-        "minutes": 33,
-        "seconds": 13
+        "minutes": 28,
+        "seconds": 49
       }
     },
     {
@@ -816,7 +816,7 @@
         "pa": "ਭਾਗ 1",
         "en": "Part 1"
       },
-      "audioPath": "audio/audioBooks/bauji/035_KK-(35) So Kich Kar Jit Mehl Na Lageh Part 1 [5 Sep 1999].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/35%20KK%20-%20GV%2035%20So%20Kich%20Kar%20Jit...%20Part%201%20%285%20Sep%201999%29.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/035.pdf",
       "duration": {
         "minutes": 30,
@@ -831,11 +831,11 @@
         "pa": "ਭਾਗ 2",
         "en": "Part 2"
       },
-      "audioPath": "audio/audioBooks/bauji/036_KK-(36) So Kich Kar Jit Mehl Na Lageh Part 2 [7 Sep 1999].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/36%20CKSL%20-%20GV%2036%20So%20Kich%20Kar%20Jit%20Mael%20Na%20Lagae%20Part%20-%202%20%2810-6-12%29%20M.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/036.pdf",
       "duration": {
-        "minutes": 32,
-        "seconds": 51
+        "minutes": 33,
+        "seconds": 50
       }
     },
     {
@@ -846,11 +846,11 @@
         "pa": "ਭਾਗ 3",
         "en": "Part 3"
       },
-      "audioPath": "audio/audioBooks/bauji/037_KK-(37) So Kich Kar Jit Mehl Na Lageh Part 3.mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/37%20KK%20-%20GV%2037%20So%20Kich%20Kar%20Jit%20Mail%20Na%20Lagae%20Part%20-%203%20%2827-3-10%29%20E.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/037.pdf",
       "duration": {
-        "minutes": 34,
-        "seconds": 19
+        "minutes": 37,
+        "seconds": 7
       }
     },
     {
@@ -861,11 +861,11 @@
         "pa": "ਭਾਗ 1",
         "en": "Part 1"
       },
-      "audioPath": "audio/audioBooks/bauji/038_PS-(38) Atish Dunnia Khunak Naam Part-1 [23 Dec  1997].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/38%20CKSL%20-%20GV%2038%20Atash%20Duniya%20Khunak%20Naam%20Khudaiya%20Part%201%284.6.14%29M.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/038.pdf",
       "duration": {
-        "minutes": 27,
-        "seconds": 13
+        "minutes": 30,
+        "seconds": 8
       }
     },
     {
@@ -876,11 +876,11 @@
         "pa": "ਭਾਗ 2",
         "en": "Part 2"
       },
-      "audioPath": "audio/audioBooks/bauji/039_PS-(39) Atish Dunnia Khunak Naam Part-2 [24 Mar 2005].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/39%20TPS%20-%20GV%2039%20Atash%20Duniya%20Khunak%20Naam%20Khudhaeya%20Part%202%20%2818-3-12%29%20M.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/039.pdf",
       "duration": {
-        "minutes": 31,
-        "seconds": 43
+        "minutes": 23,
+        "seconds": 1
       }
     },
     {
@@ -891,11 +891,11 @@
         "pa": "ਭਾਗ 3",
         "en": "Part 3"
       },
-      "audioPath": "audio/audioBooks/bauji/040_PS-(40) Atish Dunnia Khunak Naam Part-3 [28 Dec 1999].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/40%20HKR%20-%20GV%2040%20Atash%20Duniya%20Khunak%20Naam%20Khudiya%20%2812-6-12%29%20M.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/040.pdf",
       "duration": {
-        "minutes": 22,
-        "seconds": 37
+        "minutes": 21,
+        "seconds": 47
       }
     },
     {
@@ -906,11 +906,11 @@
         "pa": "ਭਾਗ 4",
         "en": "Part 4"
       },
-      "audioPath": "audio/audioBooks/bauji/041_PS-(41) Atish Dunnia Khunak Naam Part-4 [16 Sep 2002].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/41%20SSJ%20-%20GV%2041%20Atish%20Dunia%20Khunak%20Naam%20Khudaia%20Part%20-%204%20%2829-12-16%29E.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/041.pdf",
       "duration": {
-        "minutes": 35,
-        "seconds": 9
+        "minutes": 26,
+        "seconds": 47
       }
     },
     {
@@ -921,11 +921,11 @@
         "pa": "ਭਾਗ 5",
         "en": "Part 5"
       },
-      "audioPath": "audio/audioBooks/bauji/042_PS-(42) Atish Dunnia Khunak Naam Part-5.mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/42%20CKSL%20-%20GV%2042%20Atash%20Dunia%20Khunak%20Naam%20Khudia%20Part%20-%205%20%2822.09.13%29M.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/042.pdf",
       "duration": {
-        "minutes": 29,
-        "seconds": 30
+        "minutes": 20,
+        "seconds": 52
       }
     },
     {
@@ -936,11 +936,11 @@
         "pa": "ਭਾਗ 6",
         "en": "Part 6"
       },
-      "audioPath": "audio/audioBooks/bauji/043_PS-(43) Atish Dunnia Khunak Naam Part-6 [16 Sep 2006].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/43%20KK%20-%20GV%2043%20Aatish%20Duniya%20Khunak%20Naam%20Khudaya%20Part%20-%206%20%2830-5-10%29%20M.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/043.pdf",
       "duration": {
         "minutes": 21,
-        "seconds": 6
+        "seconds": 14
       }
     },
     {
@@ -951,11 +951,11 @@
         "pa": "ਭਾਗ 7",
         "en": "Part 7"
       },
-      "audioPath": "audio/audioBooks/bauji/044_PS-(44) Atish Dunnia Khunak Naam Part-7 [23 Mar 2005].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/44%20CKSL%20-%20GV%2044%20Atash%20Duniya%20Khunak%20Naam%20Khudaya%20Part%207%20%2827.12.14%29M.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/044.pdf",
       "duration": {
-        "minutes": 35,
-        "seconds": 46
+        "minutes": 30,
+        "seconds": 29
       }
     },
     {
@@ -966,11 +966,11 @@
         "pa": "ਭਾਗ 8",
         "en": "Part 8"
       },
-      "audioPath": "audio/audioBooks/bauji/045_PS-(45) Atish Dunnia Khunak Naam Part-8 [24 Mar 1998].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/45%20SSJ%20-%20GV%2045%20Atish%20Dunia%20Khunak%20Naam%20Khudaia%20%2810-06-09%29%20E.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/045.pdf",
       "duration": {
-        "minutes": 28,
-        "seconds": 56
+        "minutes": 30,
+        "seconds": 26
       }
     },
     {
@@ -981,11 +981,11 @@
         "pa": "ਭਾਗ 1",
         "en": "Part 1"
       },
-      "audioPath": "audio/audioBooks/bauji/046_KK-(46) Dharam Ya Mazhab Part-1 [21 Dec 1999].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/46%20%20KK%20-%20GV%2046%20Dharam%20Ya%20Mazhab%20Part%201%20%2820.12.11%29E.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/046.pdf",
       "duration": {
-        "minutes": 34,
-        "seconds": 0
+        "minutes": 31,
+        "seconds": 7
       }
     },
     {
@@ -996,11 +996,11 @@
         "pa": "ਭਾਗ 2",
         "en": "Part 2"
       },
-      "audioPath": "audio/audioBooks/bauji/047_KK-(47) Dharam Ya Mazhab Part-2 [22 Dec 1999].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/47%20TPS%20-%20GV%2047%20Dharam%20Ya%20Mazhab%20Part%20-%202%20%2829-9-12%29%20E.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/047.pdf",
       "duration": {
-        "minutes": 30,
-        "seconds": 22
+        "minutes": 29,
+        "seconds": 30
       }
     },
     {
@@ -1011,11 +1011,11 @@
         "pa": "ਭਾਗ 3",
         "en": "Part 3"
       },
-      "audioPath": "audio/audioBooks/bauji/048_KK-(48) Dharam Ya Mazhab Part-3 [23 Dec 1999].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/48%20KK%20-%20GV%2048%20Dharam%20Ya%20Mazhab%20Part%20-%203%20%2826.12.14%29E.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/048.pdf",
       "duration": {
-        "minutes": 27,
-        "seconds": 46
+        "minutes": 28,
+        "seconds": 44
       }
     },
     {
@@ -1026,11 +1026,11 @@
         "pa": "ਭਾਗ 4",
         "en": "Part 4"
       },
-      "audioPath": "audio/audioBooks/bauji/049_KK-(49)  Dharam Ya Mazhab Part-4.mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/49%20HKR%20-%20GV%2049%20Dharam%20Ya%20Mazab%20Part%20-%204%20%2830-3-13%29%20E.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/049.pdf",
       "duration": {
-        "minutes": 36,
-        "seconds": 6
+        "minutes": 32,
+        "seconds": 34
       }
     },
     {
@@ -1041,11 +1041,11 @@
         "pa": "ਭਾਗ 5",
         "en": "Part 5"
       },
-      "audioPath": "audio/audioBooks/bauji/050_KK-(50) Dharam Ya Mazhab Part-5 [27 Dec 1999].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/50%20HKR%20-%20GV%2050%20Dharam%20Ya%20Mazhab%20Part%20-%205%20%2829-9-12%29%20M.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/050.pdf",
       "duration": {
         "minutes": 31,
-        "seconds": 9
+        "seconds": 50
       }
     },
     {
@@ -1056,11 +1056,11 @@
         "pa": "ਭਾਗ 6",
         "en": "Part 6"
       },
-      "audioPath": "audio/audioBooks/bauji/051_PS-(51) Dharam Ya Mazhab part-6 [11 Sep 2000].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/51%20HKR%20-%20GV%2051%20Dharam%20Ya%20Mazhab%20Part%20-%206%20%2830-9-15%29E.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/051.pdf",
       "duration": {
-        "minutes": 36,
-        "seconds": 59
+        "minutes": 27,
+        "seconds": 47
       }
     },
     {
@@ -1071,11 +1071,11 @@
         "pa": "ਭਾਗ 7",
         "en": "Part 7"
       },
-      "audioPath": "audio/audioBooks/bauji/052_KK-(52) Dharam Ya Mazhab Part-7 [26.12.04]E.mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/52%20KK%20-%20GV%2052%20Dharam%20Ya%20Mazhab%20Part%207%20%2826.12.04%29E.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/052.pdf",
       "duration": {
         "minutes": 38,
-        "seconds": 39
+        "seconds": 38
       }
     },
     {
@@ -1086,11 +1086,11 @@
         "pa": "ਭਾਗ 8",
         "en": "Part 8"
       },
-      "audioPath": "audio/audioBooks/bauji/053_KK-(53) Dharam Ya Mazhab Part-8 [14 Sep 2003].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/53%20HKR%20-%20GV%2053%20Dharam%20Ya%20Mazab%20Part%20%20-%208%20%2824.12.14%29M.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/053.pdf",
       "duration": {
-        "minutes": 27,
-        "seconds": 34
+        "minutes": 24,
+        "seconds": 37
       }
     },
     {
@@ -1101,11 +1101,11 @@
         "pa": "ਭਾਗ 9",
         "en": "Part 9"
       },
-      "audioPath": "audio/audioBooks/bauji/054_PS-(54) Dharam Ya Mazhab Part-9 (10 Sep 2000).mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/54%20SSJ%20-%20GV%2054%20Dharam%20Ya%20Mazab%20Part%20-%209%20%2825.12.14%29M.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/054.pdf",
       "duration": {
         "minutes": 24,
-        "seconds": 34
+        "seconds": 50
       }
     },
     {
@@ -1116,11 +1116,11 @@
         "pa": "ਭਾਗ 10",
         "en": "Part 10"
       },
-      "audioPath": "audio/audioBooks/bauji/055_KK-(55) Dharam Ya Majhab Part-10 [6 Sep 1998].mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/55%20HPSD%20-%20GV%2055%20Dharam%20Ya%20Mazab%20Part%2010%20%2829.03.17%29M.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/055.pdf",
       "duration": {
         "minutes": 29,
-        "seconds": 14
+        "seconds": 4
       }
     },
     {
@@ -1131,11 +1131,11 @@
         "pa": "ਭਾਗ 11",
         "en": "Part 11"
       },
-      "audioPath": "audio/audioBooks/bauji/056_PS-(56) Dharam Ya Mazhab Part-11.mp3",
+      "audioPath": "https://brahmbungadodra.org/kirtanrecords/gurbanivicharaudio/56%20KK%20-%20GV%2056%20Dharam%20Ya%20Mazhab%20Part%20-%2011%20%2823-03-10%29%20E.mp3",
       "pdfUrl": "https://brahmbungadodra.org//bookdata/bookpdf/punjabi/056.pdf",
       "duration": {
-        "minutes": 31,
-        "seconds": 40
+        "minutes": 26,
+        "seconds": 26
       }
     },
     {
