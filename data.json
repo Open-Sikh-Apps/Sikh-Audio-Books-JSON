@@ -304,6 +304,32 @@
       "pdfUrl": "https://drive.google.com/uc?export=download&id=1gKhZepwya4XwmnOvTJYSaypHq7rIGHnt",
       "imagePath": "images/audioBooks/BhaiRandhirSinghJi/RangleSajjan.jpg",
       "language": "pa"
+    },
+    {
+      "id": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "authorId": "e50d78ad-1738-49a0-adcf-dda0a596a9e0",
+      "authorOrder": 1,
+      "name": {
+        "pa": "ਗੁਰਮਤਿ ਦੇ ਪਾਂਧੀ",
+        "en": "Gurmat De Paandhi"
+      },
+      "pdfUrlType": "book",
+      "pdfUrl": "https://www.rampurkhera.com/upload_images/1163609759599d197741a6f.pdf",
+      "imagePath": "images/audioBooks/RampurKhera/gurmat_de_pandhi.jpg",
+      "language": "pa"
+    },
+    {
+      "id": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "authorId": "e50d78ad-1738-49a0-adcf-dda0a596a9e0",
+      "authorOrder": 2,
+      "name": {
+        "pa": "ਸੇ ਕਿਨੇਹਿਆ? (ਭਾਗ 1)",
+        "en": "Se Kinehiya (Part 1)"
+      },
+      "pdfUrlType": "book",
+      "pdfUrl": "https://www.rampurkhera.com/upload_images/16824808959b0e46f32699.pdf",
+      "imagePath": "images/audioBooks/RampurKhera/se_kinehiya.jpg",
+      "language": "pa"
     }
   ],
   "chapters": [
@@ -1144,7 +1170,7 @@
       "audioBookOrder": 1,
       "name": {
         "pa": "ਜਾਣ-ਪਛਾਣ",
-        "en": "Intro"
+        "en": "Introduction"
       },
       "audioPath": "audio/audioBooks/BhaiRandhirSinghJi/JailChittiaan/000_Intro.mp3",
       "duration": {
@@ -1854,6 +1880,1930 @@
         "minutes": 17,
         "seconds": 21
       }
+    },
+    {
+      "id": "680d08ab-cdd5-451f-8d2b-f7967883c05c",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 1,
+      "name": {
+        "pa": "ਜਾਣ-ਪਛਾਣ",
+        "en": "Introduction"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/587afa6aad8332fc7adbe9a2f9bd72ad.mp3",
+      "duration": {
+        "minutes": 7,
+        "seconds": 20
+      }
+    },
+    {
+      "id": "e5c9b3be-d93c-4a7b-9fa6-9eca7f937875",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 2,
+      "name": {
+        "pa": "ਆਰੰਭਿਕ ਬੇਨਤੀ",
+        "en": "Arambhik Benti"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/08a8c8b0c54a3926fdd8a8ac292e0769.mp3",
+      "duration": {
+        "minutes": 10,
+        "seconds": 13
+      }
+    },
+    {
+      "id": "7fddb537-eeb3-4b28-89eb-ff864c42f0d9",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 3,
+      "name": {
+        "pa": "ਬਸੰਤ ਰਾਗ ਵਿੱਚ ਭਗਤਾਂ ਦਾ ਵੇਰਵਾ",
+        "en": "Basant Raag Vich Bhagtaan Da Vervaa"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/30e8d4eafe78ad9bd0bbbae65ae82d0a.mp3",
+      "duration": {
+        "minutes": 3,
+        "seconds": 8
+      }
+    },
+    {
+      "id": "df4c9a35-2155-4254-be58-35740e83e198",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 4,
+      "name": {
+        "pa": "ਅਕਾਲ ਪੁਰਖ ਤੇ ਜਗਤ ਰਚਨਾ",
+        "en": "Akal Purakh Te Jagat Rachna"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/bbc74f62b8c9f90a4c6720bc0c2b9e52.mp3",
+      "duration": {
+        "minutes": 12,
+        "seconds": 25
+      }
+    },
+    {
+      "id": "d6c0136b-6af8-4c32-ab7f-27c45b2b1476",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 5,
+      "name": {
+        "pa": "ਗੁਰ ਕੀ ਮਹਿਮਾ ਅਗੰਮ ਹੈ",
+        "en": "Gur Ki Mehma Agam Hai"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/c4a1ce49268a0ea920d8dfa41433d8f4.mp3",
+      "duration": {
+        "minutes": 14,
+        "seconds": 4
+      }
+    },
+    {
+      "id": "9300448a-9054-4bad-8ae6-0afd3671cd3c",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 6,
+      "name": {
+        "pa": "ਮਨੁੱਖਾ ਜਨਮ",
+        "en": "Manukha Janam"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/551d712cdd7f8309cbe7914528d7ca2d.mp3",
+      "duration": {
+        "minutes": 8,
+        "seconds": 2
+      }
+    },
+    {
+      "id": "277d5957-0f2f-46bb-b5d7-9148dd0d2f17",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 7,
+      "name": {
+        "pa": "ਗੁੱਝੀ ਭਾਹਿ (ਅੱਗ)",
+        "en": "Gujhi Bhah (Agg)"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/c3a335fbdb151eac968f6c0c4fd7f9a8.mp3",
+      "duration": {
+        "minutes": 7,
+        "seconds": 30
+      }
+    },
+    {
+      "id": "d058969d-d9fc-4558-9716-104e6d80de17",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 8,
+      "name": {
+        "pa": "ਧਰੂ ਭਗਤ ਜੀ",
+        "en": "Dhroo Bhagat Ji"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/a11313994fa175c30aeba763ba3cd7fb.mp3",
+      "duration": {
+        "minutes": 11,
+        "seconds": 8
+      }
+    },
+    {
+      "id": "a057f49d-08aa-4323-a4a1-f72e31f0038a",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 9,
+      "name": {
+        "pa": "ਭਗਤ ਪ੍ਰਹਿਲਾਦ ਜੀ",
+        "en": "Bhagat Prehlad Ji"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/063afddd04eed1e9b09fa7fda5e7403f.mp3",
+      "duration": {
+        "minutes": 17,
+        "seconds": 33
+      }
+    },
+    {
+      "id": "15f8f426-a627-41fc-8d7f-6cc25b7596b7",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 10,
+      "name": {
+        "pa": "ਭਗਤ ਕਬੀਰ ਜੀ",
+        "en": "Bhagat Kabir Ji"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/36a2c4ce979cc09d9ad0bdc0fd62d04f.mp3",
+      "duration": {
+        "minutes": 41,
+        "seconds": 43
+      }
+    },
+    {
+      "id": "cbbed979-4084-4646-8287-3873d84a9291",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 11,
+      "name": {
+        "pa": "ਭਗਤ ਨਾਮ ਦੇਵ ਜੀ",
+        "en": "Bhagat Naam Dev Ji"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/4d3952f18c785ed4bc0f1fe8008d17d9.mp3",
+      "duration": {
+        "minutes": 48,
+        "seconds": 24
+      }
+    },
+    {
+      "id": "0dcf944e-62cf-4be4-b005-1a1318d3f0ee",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 12,
+      "name": {
+        "pa": "ਭਗਤ ਸੈਣ ਜੀ",
+        "en": "Bhagat Sain Ji"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/eb46cc691fbaa894e04919a3cfbd1cb9.mp3",
+      "duration": {
+        "minutes": 11,
+        "seconds": 5
+      }
+    },
+    {
+      "id": "b410b820-ad74-49ca-8d5c-a5a7cc4c6a96",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 13,
+      "name": {
+        "pa": "ਭਗਤ ਧੰਨਾ ਜੀ",
+        "en": "Bhagat Dhanna Ji"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/d39ede9d301246f665524ec866957285.mp3",
+      "duration": {
+        "minutes": 13,
+        "seconds": 20
+      }
+    },
+    {
+      "id": "466e7e08-ca6c-4191-9734-faf825e9d006",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 14,
+      "name": {
+        "pa": "ਭਗਤ ਤ੍ਰਿਲੋਚਨ ਜੀ",
+        "en": "Bhagat Trilochan Ji"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/ccef7c1fea381b7e19ab8f7f706cf31a.mp3",
+      "duration": {
+        "minutes": 11,
+        "seconds": 49
+      }
+    },
+    {
+      "id": "634d6d8d-8e7e-438f-ab8e-704856087181",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 15,
+      "name": {
+        "pa": "ਭਗਤ ਬੇਣੀ ਜੀ",
+        "en": "Bhagat Beni Ji"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/7c7f80246ef0178d19b01cb165ccdae2.mp3",
+      "duration": {
+        "minutes": 9,
+        "seconds": 19
+      }
+    },
+    {
+      "id": "c36852f8-e346-4b23-94ca-73d324cebeb6",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 16,
+      "name": {
+        "pa": "ਭਗਤ ਰਵਿਦਾਸ ਜੀ",
+        "en": "Bhagat Ravidaas Ji"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/8fcbaa9de579ff7f3a12ae74d0db4709.mp3",
+      "duration": {
+        "minutes": 26,
+        "seconds": 7
+      }
+    },
+    {
+      "id": "762dd8f7-d197-486f-a777-76805ed3495f",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 17,
+      "name": {
+        "pa": "ਭਗਤ ਸਧਨਾ ਜੀ",
+        "en": "Bhagat Sadhna Ji"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/bec3c24cc96a07fc7db32a05bff01cd6.mp3",
+      "duration": {
+        "minutes": 16,
+        "seconds": 32
+      }
+    },
+    {
+      "id": "b0cf712b-e0ef-473b-a78e-22260ad99a74",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 18,
+      "name": {
+        "pa": "ਭਗਤ ਜੈਦੇਵ ਜੀ",
+        "en": "Bhagat Jaidev Ji"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/36a8d77f83d3f0db276b3e0c86e0b881.mp3",
+      "duration": {
+        "minutes": 22,
+        "seconds": 45
+      }
+    },
+    {
+      "id": "8b095fde-2b1b-43a6-bf5a-cd853d55dd5a",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 19,
+      "name": {
+        "pa": "ਭਗਤ ਪੀਪਾ ਜੀ",
+        "en": "Bhagat Peepa Ji"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/49c8c38200df007c975f0cd4297dcc70.mp3",
+      "duration": {
+        "minutes": 29,
+        "seconds": 30
+      }
+    },
+    {
+      "id": "2ebfebff-51a0-4084-8e85-24fac3ddf146",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 20,
+      "name": {
+        "pa": "ਭਗਤ ਰਾਮਾਨੰਦ ਜੀ",
+        "en": "Bhagat Ramanand Ji"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/3f66e9b7ed7da570e88244e14e740e3c.mp3",
+      "duration": {
+        "minutes": 9,
+        "seconds": 51
+      }
+    },
+    {
+      "id": "ee2365a3-7994-41f8-8447-0ba41b7d3821",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 21,
+      "name": {
+        "pa": "ਭਗਤ ਪਰਮਾਨੰਦ ਜੀ",
+        "en": "Bhagat Parmanand Ji"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/45b6f2dd9ed5e0a0bd627c0ddfb17420.mp3",
+      "duration": {
+        "minutes": 5,
+        "seconds": 6
+      }
+    },
+    {
+      "id": "f546180a-e379-44c2-87ec-92a6efbc7095",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 22,
+      "name": {
+        "pa": "ਭਗਤ ਸੂਰਦਾਸ ਜੀ",
+        "en": "Bhagat Soordas Ji"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/f40261af00b3dffd814786813ea245fb.mp3",
+      "duration": {
+        "minutes": 7,
+        "seconds": 33
+      }
+    },
+    {
+      "id": "891c6167-42f7-4a7a-b6cf-daa8be047eeb",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 23,
+      "name": {
+        "pa": "ਸ਼ੇਖ਼ ਫ਼ਰੀਦ ਜੀ",
+        "en": "Shekh Farid Ji"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/c83f2fd1c742e73ad3af0675cc5b598c.mp3",
+      "duration": {
+        "minutes": 21,
+        "seconds": 31
+      }
+    },
+    {
+      "id": "ee748df0-0b57-4d65-a8ec-fdb579aa74c3",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 24,
+      "name": {
+        "pa": "ਭਗਤ ਭੀਖਣ ਜੀ",
+        "en": "Bhagat Bhikhan Ji"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/156d7b4c21bc0388d64620e3a291af0b.mp3",
+      "duration": {
+        "minutes": 2,
+        "seconds": 42
+      }
+    },
+    {
+      "id": "2d0f6998-0a64-46b8-8edb-68564b4311d3",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 25,
+      "name": {
+        "pa": "ਗਨਕਾ",
+        "en": "Ganka"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/6cfeb12c877cbcd7e2cf082c03ee612e.mp3",
+      "duration": {
+        "minutes": 10,
+        "seconds": 46
+      }
+    },
+    {
+      "id": "1cc351cd-a3dd-436a-9249-2e34aa567b0d",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 26,
+      "name": {
+        "pa": "ਅੰਬਰੀਕ ਭਗਤ ਜੀ",
+        "en": "Ambrik Bhagat Ji"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/269e2bf9078435846b843ac7fb83b50d.mp3",
+      "duration": {
+        "minutes": 8,
+        "seconds": 10
+      }
+    },
+    {
+      "id": "d16309cf-5906-4974-8ebe-27e59f008250",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 27,
+      "name": {
+        "pa": "ਅਜਾਮਲ",
+        "en": "Ajaamal"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/8540b4220c09a7b829a22e725bdf2588.mp3",
+      "duration": {
+        "minutes": 12,
+        "seconds": 1
+      }
+    },
+    {
+      "id": "c6fd09f5-aa0e-4cf2-9b09-f6e14dcedabe",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 28,
+      "name": {
+        "pa": "ਗਜਇੰਦਰ (ਹਾਥੀ) ਦੀ ਕਥਾ",
+        "en": "Gajinder (Hathi) Di Katha"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/c3bb7b52dfc894c91f913a8ed77ffb47.mp3",
+      "duration": {
+        "minutes": 6,
+        "seconds": 1
+      }
+    },
+    {
+      "id": "b57577da-a783-441f-b278-938e21f2d89f",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 29,
+      "name": {
+        "pa": "ਭਗਤ ਬਾਲਮੀਕ ਜੀ",
+        "en": "Bhagat Baalmeek Ji"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/2581299fe5c1be7393f8f41200e43a3a.mp3",
+      "duration": {
+        "minutes": 15,
+        "seconds": 35
+      }
+    },
+    {
+      "id": "2e7a2655-2a10-42c2-a6f4-8cd9c2714fd8",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 30,
+      "name": {
+        "pa": "ਸਵਰੀ (ਭੀਲਣੀ)",
+        "en": "Savri (Bheelni)"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/697c445a218edfab1e981fd77810767c.mp3",
+      "duration": {
+        "minutes": 9,
+        "seconds": 16
+      }
+    },
+    {
+      "id": "5ea9ab60-5930-4811-8649-a6d41521a1a6",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 31,
+      "name": {
+        "pa": "ਦ੍ਰੋਪਤੀ",
+        "en": "Draupati"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/95272d29ae45a60bb5434aaecd250188.mp3",
+      "duration": {
+        "minutes": 7,
+        "seconds": 10
+      }
+    },
+    {
+      "id": "b156f598-aba2-44ab-bb9e-81ef23991f29",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 32,
+      "name": {
+        "pa": "ਪੂਤਨਾ ਜੀ",
+        "en": "Pootna Ji"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/d45cfca1beae9612b5428315baeb1a9d.mp3",
+      "duration": {
+        "minutes": 4,
+        "seconds": 50
+      }
+    },
+    {
+      "id": "cdb8d520-1d22-47aa-938c-1509d43d5472",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 33,
+      "name": {
+        "pa": "ਸੁਦਾਮਾ ਜੀ",
+        "en": "Sudama Ji"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/689d9544aeb9884eadde8ed77bb84a9e.mp3",
+      "duration": {
+        "minutes": 9,
+        "seconds": 30
+      }
+    },
+    {
+      "id": "34f364a6-399f-4d53-bcb7-4de648e51845",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 34,
+      "name": {
+        "pa": "ਬਿਦਰ ਭਗਤ ਜੀ",
+        "en": "Bidar Bhagat Ji"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/6b00a72d6226ce54bdd7c74e78bd44ec.mp3",
+      "duration": {
+        "minutes": 11,
+        "seconds": 58
+      }
+    },
+    {
+      "id": "3c98252e-a895-4944-8f8e-57ccf1d0f029",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 35,
+      "name": {
+        "pa": "ਬੱਧਕ ਜੀ",
+        "en": "Badhak Ji"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/5260bc93a4ac5e1d98cff6e2df0dd713.mp3",
+      "duration": {
+        "minutes": 11,
+        "seconds": 13
+      }
+    },
+    {
+      "id": "c604f928-ddb9-4b31-99c1-18c6339974de",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 36,
+      "name": {
+        "pa": "ਮਹਾਤਮਾ ਜੀ ਵਲੋਂ ਕੁਝ ਪ੍ਰਸ਼ਨਾਂ ਦੇ ਉੱਤਰ",
+        "en": "Mahatma Ji Valon Kujh Prashna De Utar"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/f2fcbd9f44c78ee69a1efd6b2f7e20b5.mp3",
+      "duration": {
+        "minutes": 12,
+        "seconds": 48
+      }
+    },
+    {
+      "id": "c3e9d1d8-1c9f-4f29-8b4b-9744158bb200",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 37,
+      "name": {
+        "pa": "ਜਗਤ ਦੀ ਝੂਠੀ ਪ੍ਰੀਤ ਦੀ ਸਾਖੀ",
+        "en": "Jagat Di Jhoothi Preet Di Sakhi"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/e24d65fde82f6324e34fc4ec67ca93b7.mp3",
+      "duration": {
+        "minutes": 7,
+        "seconds": 11
+      }
+    },
+    {
+      "id": "eb2af8a6-60f7-4baa-8fda-51ae67241ccf",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 38,
+      "name": {
+        "pa": "ਰਾਜਾ ਜਨਕ ਜੀ",
+        "en": "Raja Janak Ji"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/345c502f871eb32313364fc6decf1891.mp3",
+      "duration": {
+        "minutes": 10,
+        "seconds": 55
+      }
+    },
+    {
+      "id": "21ae2b1c-6d0c-4ef1-aaa8-ffc5defdf82b",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 39,
+      "name": {
+        "pa": "ਸਿੱਖ ਧਰਮ-ਖ਼ਾਲਸਾ ਪੰਥ",
+        "en": "Sikh Dharam - Khalsa Panth"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/0fe4832e153223eb8d48fcd5eeaf006a.mp3",
+      "duration": {
+        "minutes": 34,
+        "seconds": 43
+      }
+    },
+    {
+      "id": "399d6db7-48c8-4884-8fe3-dc0af6eb6e84",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 40,
+      "name": {
+        "pa": "ਕਿਰਤ ਕਰਨਾ, ਵੰਡ ਛਕਣਾ, ਨਾਮ ਜਪਣਾ",
+        "en": "Kirat Karna, Vand Chakna, Naam Japna"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/1e7b99dd572f412baca81eaee94da07b.mp3",
+      "duration": {
+        "minutes": 26,
+        "seconds": 20
+      }
+    },
+    {
+      "id": "e59f60d3-d4a7-4ba5-82dd-fefa5726b693",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 41,
+      "name": {
+        "pa": "ਬਾਬਾ ਬੁੱਢਾ ਜੀ",
+        "en": "Baba Buddha Ji"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/defdbf730009da5b8152a36268fc8d2b.mp3",
+      "duration": {
+        "minutes": 28,
+        "seconds": 54
+      }
+    },
+    {
+      "id": "14777818-39a0-485b-b80e-f96f0e8f9891",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 42,
+      "name": {
+        "pa": "ਭਾਈ ਮੰਝ ਜੀ",
+        "en": "Bhai Manjh Ji"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/5f16b7e05d3b4f0848bee27121e1a720.mp3",
+      "duration": {
+        "minutes": 27,
+        "seconds": 6
+      }
+    },
+    {
+      "id": "252a28d7-2df5-4f6e-a23f-b19436474b6f",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 43,
+      "name": {
+        "pa": "ਭਾਈ ਗੁਰਦਾਸ ਜੀ",
+        "en": "Bhai Gurdaas Ji"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/8e5c28b41be4b542bb7c7703a44466bf.mp3",
+      "duration": {
+        "minutes": 17,
+        "seconds": 33
+      }
+    },
+    {
+      "id": "d6176e87-efc1-4a02-bb15-7a9b73537004",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 44,
+      "name": {
+        "pa": "ਭਾਈ ਬਿਧੀ ਚੰਦ ਜੀ",
+        "en": "Bhai Bidhi Chand Ji"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/c2a1a49dacf7b0ffd9c9e56c7ed427bf.mp3",
+      "duration": {
+        "minutes": 30,
+        "seconds": 47
+      }
+    },
+    {
+      "id": "5430a15f-13a2-4dc1-be1c-55a5ac773615",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 45,
+      "name": {
+        "pa": "ਗੁਰੂ ਤੇਗ ਬਹਾਦਰ ਜੀ ਦੇ ਸਨਮੁਖ ਸ਼ਹੀਦ ਹੋਏ ਗੁਰਸਿੱਖ",
+        "en": "Guru Teg Bahadur Ji De Sanmukh Shaheed Hoe Gursikh"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/8276cddd18d82750baa49c5e21e1e1ff.mp3",
+      "duration": {
+        "minutes": 21,
+        "seconds": 35
+      }
+    },
+    {
+      "id": "12ffa2ed-54e5-4565-b52d-65859cb6c921",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 46,
+      "name": {
+        "pa": "ਪੰਜ ਪਿਆਰੇ",
+        "en": "Panj Pyaare"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/5fe8573ecf68638f720fe53276c2d1cc.mp3",
+      "duration": {
+        "minutes": 34,
+        "seconds": 5
+      }
+    },
+    {
+      "id": "e0646a1c-4f38-43f3-91a1-d777fb7c06bc",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 47,
+      "name": {
+        "pa": "ਚਾਰ ਸਾਹਿਬਜ਼ਾਦੇ",
+        "en": "Chaar Sahibzaade"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/5c949885bd605d00a2b0437de3e5af2f.mp3",
+      "duration": {
+        "minutes": 50,
+        "seconds": 46
+      }
+    },
+    {
+      "id": "0c44c1b9-8fdc-4a31-bddb-cd01d3fee37b",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 48,
+      "name": {
+        "pa": "ਭਾਈ ਮਨੀ ਸਿੰਘ ਜੀ",
+        "en": "Bhai Mani Singh Ji"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/d027a78465cb925177573c42b1482cbf.mp3",
+      "duration": {
+        "minutes": 26,
+        "seconds": 36
+      }
+    },
+    {
+      "id": "2088e7a1-92cd-45ce-bbe9-0ea29bb9b8ee",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 49,
+      "name": {
+        "pa": "ਭਾਈ ਤਾਰੂ ਸਿੰਘ ਜੀ",
+        "en": "Bhai Taru Singh Ji"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/173379ab754e07f4f6371de51bb38ac8.mp3",
+      "duration": {
+        "minutes": 21,
+        "seconds": 16
+      }
+    },
+    {
+      "id": "67e987f8-22a2-496d-9725-18ee5d1da3e8",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 50,
+      "name": {
+        "pa": "ਬਾਬਾ ਦੀਪ ਸਿੰਘ ਜੀ",
+        "en": "Baba Deep Singh Ji"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/4ceaf638380b5d32bf4e2f7479f08e8c.mp3",
+      "duration": {
+        "minutes": 20,
+        "seconds": 26
+      }
+    },
+    {
+      "id": "e85bd9fa-d817-4dff-b4b6-c00ecaef78cd",
+      "audioBookId": "78f231ae-52a1-4f67-8133-f505cb0e5e1e",
+      "audioBookOrder": 51,
+      "name": {
+        "pa": "ਇਤਿਹਾਸ ਗੁਰਦੁਆਰਾ ਰਾਮਪੁਰ ਖੇੜਾ",
+        "en": "Itehaas Gurudwara Rampur Khera"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/3ec5b5885cab330863a2fc583ab94b34.mp3",
+      "duration": {
+        "minutes": 23,
+        "seconds": 49
+      }
+    },
+    {
+      "id": "64fdcc4e-04f7-4871-8dd3-cdf4e495c19c",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 1,
+      "name": {
+        "pa": "ਆਡੀਓਬੁੱਕ ਦੀ ਜਾਣ-ਪਛਾਣ",
+        "en": "Introduction of Audiobook"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/3d9ff5caeb482af684ad2b2c7a9d9e0c.mp3",
+      "duration": {
+        "minutes": 5,
+        "seconds": 49
+      }
+    },
+    {
+      "id": "fa2bb57b-933f-48cf-b514-ff749235cb6f",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 2,
+      "name": {
+        "pa": "ਉਪਜੈ ਗਿਆਨੁ ਦੁਰਮਤਿ ਛੀਜੈ ॥",
+        "en": "Upjai Giaan Durmat Chheejai ॥"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/20db00ab1c6c45b5aea13c50aa3518e7.mp3",
+      "duration": {
+        "minutes": 1,
+        "seconds": 21
+      }
+    },
+    {
+      "id": "a893e99b-1fb7-4fbc-96b5-16924ca6be56",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 3,
+      "name": {
+        "pa": "ਉਜੜ ਥੇਹੁ ਵਸਾਇਓ",
+        "en": "Ujarh Theh Vasaaio"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/4d648d44276a25e8242b6b5b7e022907.mp3",
+      "duration": {
+        "minutes": 2,
+        "seconds": 50
+      }
+    },
+    {
+      "id": "a4d74615-6e75-4792-8ac7-1d7031358a18",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 4,
+      "name": {
+        "pa": "ਇਕ ਪਵਿੱਤ੍ਰ ਆਤਮਾ",
+        "en": "Ik Pavittar Atmaa"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/be5ad3140371e641d29323048f0ba472.mp3",
+      "duration": {
+        "minutes": 2,
+        "seconds": 51
+      }
+    },
+    {
+      "id": "8ce0fa08-4357-41e9-9984-b1af9a6b86d5",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 5,
+      "name": {
+        "pa": "ਪ੍ਰੇਰਨਾ-ਸ੍ਰੋਤ",
+        "en": "Parernaa Sarot"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/43d320e6ecb6346f005dd1dc8f4fbf7a.mp3",
+      "duration": {
+        "minutes": 2,
+        "seconds": 22
+      }
+    },
+    {
+      "id": "8eb4be2d-a16b-46ef-bfc3-578c85cbde82",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 6,
+      "name": {
+        "pa": "ਧੰਨ ਗੁਰੂ ਧੰਨ ਗੁਰੂ ਪਿਆਰੇ ॥",
+        "en": "Dhan Guru Dhan Guru Pyaare"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/8884d7383ada4eefea0eba9f5d75c565.mp3",
+      "duration": {
+        "minutes": 17,
+        "seconds": 27
+      }
+    },
+    {
+      "id": "8aeabb12-2596-4b83-883f-84c7584249bb",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 7,
+      "name": {
+        "pa": "ਤੇ ਵਿਰਲੇ ਸੰਸਾਰ",
+        "en": "Te Virlai Sansaar"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/e7d2755d1775684639f55d9b7aec689a.mp3",
+      "duration": {
+        "minutes": 1,
+        "seconds": 34
+      }
+    },
+    {
+      "id": "6dd3b673-e150-465b-848d-10c6af248d04",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 8,
+      "name": {
+        "pa": "ਵਿਚਿ ਦੁਨੀਆ ਸੇਵ ਕਮਾਈਐ",
+        "en": "Vich Duniaa Sev Kamaeeai"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/7153f0b080dc9344f1430142df17bea4.mp3",
+      "duration": {
+        "minutes": 1,
+        "seconds": 28
+      }
+    },
+    {
+      "id": "5e5f27b1-ec74-4c42-9e54-fa359dbe8264",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 9,
+      "name": {
+        "pa": "ਵਿਰਲੇ ਦਾਸ ਉਦਾਸਾ",
+        "en": "Virlai Daas Udasaa"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/7d0f2a9b773fc9fa3f77e4a6b2a720e3.mp3",
+      "duration": {
+        "minutes": 1,
+        "seconds": 25
+      }
+    },
+    {
+      "id": "272c8cc3-ac22-4a5d-a3ab-4f1a608bcf94",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 10,
+      "name": {
+        "pa": "ਪੂਰਨ ਪੁਰਖ ਨਹੀ ਡੋਲਾਨੇ",
+        "en": "Puran Purakh Nahi Dolaanai"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/c30a1bb743ff6fe32e0f1bf2686b91df.mp3",
+      "duration": {
+        "minutes": 5,
+        "seconds": 33
+      }
+    },
+    {
+      "id": "c021675a-8933-42cf-ad44-180fbf5865d1",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 11,
+      "name": {
+        "pa": "ਸੰਤਨ ਕਿ ਮਹਿਮਾ ਕਵਨ ਵਖਾਨਉ ॥",
+        "en": "Santan Ki Mehma Kavan Vakhaano"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/b8f70575005ec21337fc2f27f86a4d85.mp3",
+      "duration": {
+        "minutes": 15,
+        "seconds": 38
+      }
+    },
+    {
+      "id": "a65530be-63fc-45a4-98b4-e9751b95323c",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 12,
+      "name": {
+        "pa": "ਸੇ ਕਿਨੇਹਿਆ ਬਾਰੇ ਕੁਝ ਸ਼ਬਦ",
+        "en": "Se Kinehiya Baare Kujh Shabad"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/7b46a1e5283c43e2a05c38df9aa71d68.mp3",
+      "duration": {
+        "minutes": 5,
+        "seconds": 6
+      }
+    },
+    {
+      "id": "ed885525-6996-4e1e-8bfc-3615028d57d0",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 13,
+      "name": {
+        "pa": "ਇਕ ਮਹਾਨ ਆਤਮਾ",
+        "en": "Ik Mahaan Aatmaa"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/9a53e1dafa476a5c99c03a4509aeb1b7.mp3",
+      "duration": {
+        "minutes": 16,
+        "seconds": 22
+      }
+    },
+    {
+      "id": "9d7fe967-3cbc-4f80-a46e-ee069194f84e",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 14,
+      "name": {
+        "pa": "ਆਰੰਭਿਕ ਬੇਨਤੀ -ਸੇਵਾ ਸਿੰਘ (ਸੰਤ)",
+        "en": "Arambhik Benti - Baba Sewa Singh Ji"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/76da986407da3557b1daab595e74997b.mp3",
+      "duration": {
+        "minutes": 6,
+        "seconds": 33
+      }
+    },
+    {
+      "id": "7f963103-747f-4fb0-9686-3c28e621ac02",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 15,
+      "name": {
+        "pa": "ਜਨਮ ਅਤੇ ਬਚਪਨ",
+        "en": "Janam ate Bachpan"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/be1c26bb9fba1036ad0e425c5c005f0d.mp3",
+      "duration": {
+        "minutes": 6,
+        "seconds": 7
+      }
+    },
+    {
+      "id": "c232a813-8eeb-4f07-81b4-2d72d74af530",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 16,
+      "name": {
+        "pa": "ਉਦਾਸੀ ਸਾਧੂ ਦੀ ਸੰਗਤ ਅਤੇ ਸੇਵਾ",
+        "en": "Udaasi Sadhu Di Sangat Ate Sewa"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/121331f2b43fc8f3c71268d0e23c6b87.mp3",
+      "duration": {
+        "minutes": 11,
+        "seconds": 19
+      }
+    },
+    {
+      "id": "10051094-1d05-4e74-8d43-eb00bb039bbc",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 17,
+      "name": {
+        "pa": "ਸਤਿਗੁਰੂ ਸ੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ ਦੀ ਸ਼ਰਨ ਆਉਣਾ",
+        "en": "Satguru Shri Guru Granth Ji Di Sharan Aauna"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/3099fe6283c3415ec2efd89d53bee30b.mp3",
+      "duration": {
+        "minutes": 8,
+        "seconds": 34
+      }
+    },
+    {
+      "id": "9f01042f-303f-40d0-a4ee-a1095bc64172",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 18,
+      "name": {
+        "pa": "ਜੱਦੀ ਪਿੰਡ ਧੁੱਗੇ ਤੋਂ ਸਰਗੋਧੇ (ਪਾਕਿਸਤਾਨ) ਜਾਣਾ ਤਥਾ ਨਿੱਤ ਦੀ ਕਿਰਿਆ",
+        "en": "Jaddi Pind Dhugge Ton Sargodhe (Pakistan) Jaana Tatha Nitt Di Kiriya"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/a217f0c268e5d69b57abfd13ab1f5aa3.mp3",
+      "duration": {
+        "minutes": 7,
+        "seconds": 20
+      }
+    },
+    {
+      "id": "2e965561-51f0-4cac-adc9-a1d3868d4658",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 19,
+      "name": {
+        "pa": "ਰਜਵਾਹੇ ਕੰਢੇ ਬੈਠਿਆਂ ਜ਼ਹਿਰੀਲੇ ਸੱਪ ਦਾ ਆਉਣਾ ਅਤੇ ਸ੍ਰੀ ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ ਦੇ ਪ੍ਰਤੱਖ ਦਰਸ਼ਨ ਹੋਣੇ",
+        "en": "Rajvahe Kande Baithean  Zehreele Sapp Da Auna Ate Shri Guru Nanak Dev Ji De Prattakh Darshan Hone"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/a7ccf99254a276e3a0988c26abf4f0f4.mp3",
+      "duration": {
+        "minutes": 5,
+        "seconds": 54
+      }
+    },
+    {
+      "id": "840c0b98-0173-47c8-a8cc-a5ff4e0a1857",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 20,
+      "name": {
+        "pa": "ਵੱਡੇ ਭਾਈ ਸ. ਤਾਰਾ ਸਿੰਘ ਨੂੰ ਸੁਪਨੇ ਵਿਚ ਦਸਵੇਂ ਪਾਤਸ਼ਾਹ ਜੀ ਨੇ ਦਰਸ਼ਨ ਦੇਣੇ ਤੇ ਬਚਨ ਕਰਨਾ",
+        "en": "Vadde Bhai S. Tara Singh Noo Supne Vich Dasve Paatshah Ji ne Darshan Dene Te Bachan Karna"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/293f1d206b17b8397d291ffeb003d880.mp3",
+      "duration": {
+        "minutes": 11,
+        "seconds": 42
+      }
+    },
+    {
+      "id": "0e810ff3-889f-4e85-b036-8a8cee3d57e8",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 21,
+      "name": {
+        "pa": "ਬਾਬਾ ਜੀ ਨੇ ਸ੍ਰੀ ਅਨੰਦਪੁਰ ਸਾਹਿਬ ਜਾ ਕੇ ਛੇ ਮਹੀਨੇ ਮੂਲਮੰਤ੍ਰ ਦਾ ਜਾਪ ਕਰਨਾ",
+        "en": "Baba Ji Ne Shri Anandpur Sahib Ja Ke Che Mahine Moolmantar Da Jaap Karna"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/5e35a3edc651bc5326338e475f69f5af.mp3",
+      "duration": {
+        "minutes": 11,
+        "seconds": 46
+      }
+    },
+    {
+      "id": "7b5074e1-bd2b-4ad9-87ca-d16c15bb2182",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 22,
+      "name": {
+        "pa": "ਗੁਰੂ ਹੁਕਮ ਵਿਚ ਕਰਨਲ ਪਿਆਰਾ ਸਿੰਘ ਦੀ ਨਿਗ੍ਹਾ ਠੀਕ ਕਰਨੀ",
+        "en": "Guru Hukam Vich Colenel Pyaara Singh Di Nigah Theek Karni"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/151b5e1de2a6c172a6ae666fa8b71eb9.mp3",
+      "duration": { "minutes": 7, "seconds": 42 }
+    },
+    {
+      "id": "256438e0-0dc5-4ab8-a943-9087061ed5d9",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 23,
+      "name": {
+        "pa": "ਅਮੋਲਕ ਬਚਨਾਂ ਦਾ ਖ਼ਜ਼ਾਨਾ ਅਗਨ ਭੇਟ",
+        "en": "Amolak Bachna Da Khazana Agan Bhet"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/a5239dc90b141efcd661dc9c7bb03f6e.mp3",
+      "duration": { "minutes": 6, "seconds": 7 }
+    },
+    {
+      "id": "00399ec2-dd04-4e57-bf15-b44f1aa628a7",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 24,
+      "name": {
+        "pa": "ਅਉਖਦ ਆਏ ਰਾਸਿ ਵਿਚਿ ਆਪਿ ਖਲੋਇਆ॥",
+        "en": "Aukhad Aae Raas Vich Aap Khaloya ॥"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/8a808c159ddc947e3c38187ac0506803.mp3",
+      "duration": { "minutes": 10, "seconds": 54 }
+    },
+    {
+      "id": "ad1a4ce0-bcc7-4c10-9556-cafb444bc6d2",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 25,
+      "name": {
+        "pa": "ਬਾਬਾ ਜੀ ਨੇ ਆਪਣੇ ਇਕ ਪ੍ਰੇਮੀ ਸੱਜਣ ਨੂੰ ਆਤਮਾ ਰਾਹੀਂ ਪਹੁੰਚ ਕੇ, ਮਾੜੇ ਪਾਸੇ ਜਾਣ ਤੋਂ ਬਚਾਉਣਾ",
+        "en": "Baba Ji Ne Aapne Ik Premi Sajjan Noo Aatma Rahi Pahunch Ke, Maade Paase Jaan To Bachauna"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/d8c004f2a767ff5c7261c4af3db77284.mp3",
+      "duration": { "minutes": 13, "seconds": 55 }
+    },
+    {
+      "id": "fed5393e-718b-4c2d-bef5-ed8dbac058da",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 26,
+      "name": {
+        "pa": "ਜੋ ਜਨ ਲੂਝਹਿ ਮਨੈ ਸਿਉ ਸੇ ਸੂਰੇ ਪਰਧਾਨਾ",
+        "en": "Jo Jan Loojhai Manai Sio Se Soore Pardhana"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/7363553e3010f40e0e889be5a954fa4a.mp3",
+      "duration": { "minutes": 12, "seconds": 20 }
+    },
+    {
+      "id": "f8490f44-2be3-4dc5-a66c-4d93c3b3ebe8",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 27,
+      "name": {
+        "pa": "ਬਾਬਾ ਜੀ ਨੇ ਲਾਹੌਰ ਛਾਉਣੀ ਵਿਚ ਸਿਮਰਨ-ਭਜਨ ਕਰਨਾ",
+        "en": "Baba Ji Ne Lahore Chauni Vich Simran-Bhajan Karna"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/7e9ab229cd2eff74bbd99677a6cd9db4.mp3",
+      "duration": { "minutes": 5, "seconds": 37 }
+    },
+    {
+      "id": "7f5791a4-8d35-4c01-97b4-f1fdf9b8efe7",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 28,
+      "name": {
+        "pa": "ਦੇਸ਼ ਦੇ ਬਟਵਾਰੇ ਦਾ ਅਨੁਭਵ",
+        "en": "Desh De Batvare Da Anubhav"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/232b919fa06be53a8e113021413bb1f9.mp3",
+      "duration": { "minutes": 10, "seconds": 1 }
+    },
+    {
+      "id": "c7808fa5-3199-4a85-a652-b7894d33ba42",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 29,
+      "name": {
+        "pa": "ਡਾਕਟਰ ਕਰਤਾਰ ਸਿੰਘ ਹੋਰਾਂ ਨਾਲ ਮਿਲਾਪ",
+        "en": "Doctor Kartaar Singh Horan Naal Milaap"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/7756506c470b2bc51f3dc8b5482d3801.mp3",
+      "duration": { "minutes": 22, "seconds": 38 }
+    },
+    {
+      "id": "83de05cc-37cc-49ce-b5c5-861ff36a5a36",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 30,
+      "name": {
+        "pa": "ਦੇਹਧਾਰੀ ਗੁਰੂ ਦਾ ਖੰਡਨ",
+        "en": "Dehdhaari Guru Da Khandan"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/b4301baddbebe72dcbb3d877c2d77c9f.mp3",
+      "duration": { "minutes": 9, "seconds": 16 }
+    },
+    {
+      "id": "e5d05c97-967d-4152-86c3-3af2c5510e84",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 31,
+      "name": { "pa": "1947 ਦਾ ਬਟਵਾਰਾ", "en": "1947 Da Batwaara" },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/2148af4078cc21707cbb44ac0e6cc264.mp3",
+      "duration": { "minutes": 2, "seconds": 0 }
+    },
+    {
+      "id": "6502b3e4-079c-492b-b84b-4d9b8f6ad9ce",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 32,
+      "name": {
+        "pa": "ਜੋਗੀ ਨੇ ਬਾਬਾ ਜੀ ਉੱਪਰ ਆਪਣੇ ਤਾਂਤ੍ਰਿਕ ਬਲ ਨਾਲ ਪ੍ਰਭਾਵ ਪਾਉਣ ਦਾ ਯਤਨ ਕਰਨਾ ਅਤੇ ਬਾਬਾ ਜੀ ਨੇ ਵਾਹਿਗੁਰੂ-ਗੁਰਮੰਤ੍ਰ ਦੀ ਸ਼ਕਤੀ ਵਰਤਣੀ",
+        "en": "Jogi Ne Baba Ji Uppar Aapne Tantrik Bal Naal Prabhaav Paun Da Yatan Karna Ate Baba Ji Ne Waheguru-Gurmantar Di Shakti Vartni"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/d153e38349be4ef3a2145c2d7471af79.mp3",
+      "duration": { "minutes": 8, "seconds": 27 }
+    },
+    {
+      "id": "f0b4c132-4be8-4ecb-b245-4be1d036c8bc",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 33,
+      "name": {
+        "pa": "ਰਾਮਪੁਰ ਖੇੜੇ (ਥੇਹ) ਉੱਪਰ ਗੁਰਮਤਿ ਪ੍ਰਚਾਰ ਕੇਂਦਰ ਬਨਾਣ ਲਈ ਸਤਿਗੁਰੂ ਜੀ ਵੱਲੋਂ ਹੁਕਮ",
+        "en": "Rampur Khere (Theh) Uppar Gurmat Prachaar Kendar Banaan Lai Satguru Ji Vallon Hukam"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/85d4abc99707d72a6afa4f2b95095de3.mp3",
+      "duration": { "minutes": 10, "seconds": 45 }
+    },
+    {
+      "id": "f6dbc45a-d24a-424d-b61c-907dd4d3d40e",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 34,
+      "name": {
+        "pa": "ਪਹਿਲੀ ਰਾਤ ਹੀ ਮੁਸਲਮਾਨ ਫ਼ਕੀਰ ਅਤੇ ਇਕ ਹੋਰ ਜਟਾਧਾਰੀ ਨੇ ਇਸ ਧਰਤੀ (ਥੇਹ) ਉੱਪਰ ਆਪਣਾ ਕਬਜ਼ਾ ਜਤਾਉਣਾ",
+        "en": "Pehli Raat Hi Musalmaan Fakir Ate Ik Hor Jatadhaari Ne Is Dharti (Theh) Uppar Apna Kabza Jatauna"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/d727d3533f7de224bdbc8233655e3d43.mp3",
+      "duration": { "minutes": 9, "seconds": 29 }
+    },
+    {
+      "id": "072a36d1-5908-463f-b3e5-c870c6eb143a",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 35,
+      "name": {
+        "pa": "ਗੁਰਬਾਣੀ ਅਨੁਸਾਰ ਮਾਇਆ ਕੀ ਹੈ?",
+        "en": "Gurbani Anusar Maya Ki Hai?"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/952b9a017c4d5f9d5a3179d548ec50c6.mp3",
+      "duration": { "minutes": 31, "seconds": 49 }
+    },
+    {
+      "id": "2380243d-463a-42e2-80bd-7c54850a0d28",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 36,
+      "name": {
+        "pa": "ਪਿੰਡ ਬਾਹਲੇ ਵਿਖੇ ਲੰਗਰ ਛਕਣਾ ਅਰੰਭ ਕਰਨਾ",
+        "en": "Pind Baahle Vikhe Langar Chakna Arambh Karna"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/a1ce88c58e6d96bcdcb8358fd9da15e9.mp3",
+      "duration": { "minutes": 10, "seconds": 56 }
+    },
+    {
+      "id": "48274483-8f88-492e-b36f-56cdccd5ffb7",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 37,
+      "name": {
+        "pa": "ਦਾਸ ਦਾ ਬਾਬਾ ਜੀ ਨਾਲ ਮਿਲਾਪ",
+        "en": "Daas Da Baba Ji Naal Milaap"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/c7675b311a01ce1463a6e30b653e0a68.mp3",
+      "duration": { "minutes": 10, "seconds": 28 }
+    },
+    {
+      "id": "e325e701-5f26-43f2-af5f-f7f57f1c6249",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 38,
+      "name": {
+        "pa": "ਵੀਰਾਨ ਥੇਹ ਦਾ ਨਾਉਂ ਕੁਟੀਆ ਰਾਮਪੁਰ ਖੇੜਾ ਰੱਖਿਆ",
+        "en": "Veeran Theh Da Naun Kutiya Rampur Khera Rakheya"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/e331d0aedf03ff5f527ddb3e9a5c0451.mp3",
+      "duration": { "minutes": 12, "seconds": 11 }
+    },
+    {
+      "id": "66881671-62f4-4784-b7c2-5ecba7370352",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 39,
+      "name": {
+        "pa": "ਜੀਵਾਂ ਨੂੰ ਨਜਾਇਜ਼ ਤੰਗ ਕਰਨ ਤੇ ਪਰਮੇਸ਼ਰ ਵੱਲੋਂ ਕਰੋਪੀ ਹੁੰਦੀ ਹੈ",
+        "en": "Jeevan Noo Najaez Tang Karan Te Parmeshar Vallon Karopi Hundi Hai"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/6a4bef443c9807072abda12298d3b337.mp3",
+      "duration": { "minutes": 6, "seconds": 57 }
+    },
+    {
+      "id": "7c14c3e8-2fdd-4194-89aa-09f4a0d674d8",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 40,
+      "name": { "pa": "ਬਦ-ਅਸੀਸ ਦਾ ਅਸਰ", "en": "Bad-Asees Da Asar" },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/68daeeafb7ddace9e5ce3859daf98f39.mp3",
+      "duration": { "minutes": 10, "seconds": 56 }
+    },
+    {
+      "id": "93a34f33-c082-4ee1-895e-aa7a80966c10",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 41,
+      "name": {
+        "pa": "ਪੁਰਾਣੇ ਸੰਗੀਆਂ ਨੂੰ ਬਾਬਾ ਜੀ ਦੀ ਭਾਲ",
+        "en": "Puraane Sangiaan Noo Baba Ji Di Bhaal"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/7226a839b8c6064663afea86533232ee.mp3",
+      "duration": { "minutes": 6, "seconds": 29 }
+    },
+    {
+      "id": "e929f47e-3cf8-4ebe-aaab-56d6f57896ab",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 42,
+      "name": { "pa": "ਭੂਖੇ ਕਉ ਦੇਵਤ ਅਧਾਰ", "en": "Bhookhai Kau Devat Adhaar" },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/11a7b7bb74f876694f4a2c8294007bab.mp3",
+      "duration": { "minutes": 6, "seconds": 41 }
+    },
+    {
+      "id": "ce354221-c096-465e-aae7-6ce8e6de3096",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 43,
+      "name": {
+        "pa": "ਹਿਚਹਿ ਤ ਪ੍ਰੇਮ ਕੈ ਚਾਬੁਕ ਮਾਰਉ",
+        "en": "Hicheh Ta Prem Kai Chabuk Marau"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/2e33db4c0e274c3a1a8af3d3f89a6855.mp3",
+      "duration": { "minutes": 8, "seconds": 52 }
+    },
+    {
+      "id": "031be790-815f-40ef-bc48-aeb8a6626c8b",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 44,
+      "name": {
+        "pa": "ਅੱਸੂ ਮਹੀਨੇ ਵਿਚ ਸਮਾਗਮ ਅਰੰਭ ਕਰਨਾ",
+        "en": "Assu Mahine Da Smagam Arambh Karna"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/e4d8e1da038317049e9f750f1b6a82c6.mp3",
+      "duration": { "minutes": 44, "seconds": 55 }
+    },
+    {
+      "id": "f2936d17-4e2c-4991-be53-43ef7af24c7f",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 45,
+      "name": { "pa": "ਲੰਗਰ-ਪੰਗਤ ਦੀ ਸਾਂਝ", "en": "Langar-Pangat Di Saanjh" },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/d2e96c6cf9d48f8b7a4e7706639fa83e.mp3",
+      "duration": { "minutes": 4, "seconds": 16 }
+    },
+    {
+      "id": "15d771f4-4a7a-4011-ade8-cc1c6fa76124",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 46,
+      "name": {
+        "pa": "ਗੁਰੂ ਡੰਮ ਪ੍ਰਤੀ ਸੋਚ ਤੇ ਸ਼ਕਤੀ",
+        "en": "Guru Dam Prati Soch Te Shakti"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/ad2bf78dae380d844e48c310c8ff7b51.mp3",
+      "duration": { "minutes": 6, "seconds": 51 }
+    },
+    {
+      "id": "840e3494-7ec8-4925-8dd8-e519ca3ec8f4",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 47,
+      "name": {
+        "pa": "ਹਰਿ ਅੰਮ੍ਰਿਤ ਬਿਖੁ ਲਹਿ ਜਾਏ ਰਾਮ",
+        "en": "Har Amrit Bikh Leh Jaai Raam"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/5dcc8ffeed22a271f74f6d14b4366aae.mp3",
+      "duration": { "minutes": 16, "seconds": 39 }
+    },
+    {
+      "id": "4b1d6980-d366-404f-a596-a69bb60bcdd4",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 48,
+      "name": {
+        "pa": "ਗੁਰਦੁਆਰਾ ਸਾਹਿਬ ਦੀ ਉਸਾਰੀ",
+        "en": "Gurdwara Sahib Di Usaari"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/50f1fc6418c610502ef168faeb1be3ef.mp3",
+      "duration": { "minutes": 26, "seconds": 30 }
+    },
+    {
+      "id": "be629759-e0a1-4d82-b23a-3105c27f6736",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 49,
+      "name": {
+        "pa": "ਜਾ ਕੈ ਮਸਤਕਿ ਭਾਗ ਸਿ ਸੇਵਾ ਲਾਇਆ",
+        "en": "Ja Kai Mastaq Bhaag Se Sewa Laaiaa"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/e7626bce8ca0d21c26335ae5e106a07f.mp3",
+      "duration": { "minutes": 11, "seconds": 5 }
+    },
+    {
+      "id": "8e033f0e-ef12-4b9c-b501-b69fef90dfff",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 50,
+      "name": {
+        "pa": "ਬੁਰੇ ਕਰਮਾਂ ਦਾ ਤਿਆਗ ਹੀ ਅਸਲ ਸੇਵਾ ਹੈ",
+        "en": "Bure Karma Da Tyaag Hi Asal Sewa Hai"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/36b1d6c8f690429f65c41a6e7bb00f6a.mp3",
+      "duration": { "minutes": 13, "seconds": 23 }
+    },
+    {
+      "id": "2128161d-e4c2-4b23-b69c-434671cafda4",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 51,
+      "name": {
+        "pa": "ਮੰਦਾ ਚੰਗਾ ਆਪਣਾ ਆਪੇ ਹੀ ਕੀਤਾ ਪਾਵਣਾ",
+        "en": "Manda Changa Aapna Aapai Hee Keeta Pavnaa"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/4335274eb754bd89f23dc4eb91173e0f.mp3",
+      "duration": { "minutes": 11, "seconds": 16 }
+    },
+    {
+      "id": "27ce5051-760f-43ef-9cef-8705f9517746",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 52,
+      "name": {
+        "pa": "ਸੰਕਲਪਾਂ ਨੂੰ ਤਿਆਗਣ ਵਿਚ ਹੀ ਲਾਭ ਹੈ",
+        "en": "Sankalpa Nu Tyagan Vich Hi Laabh Hai"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/4349f05ee07eea46542b330e2abebea5.mp3",
+      "duration": { "minutes": 7, "seconds": 48 }
+    },
+    {
+      "id": "0aaf733e-0236-4dfd-a453-87f1ef369874",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 53,
+      "name": {
+        "pa": "ਜੇਹਾ ਬੀਜੈ ਸੋ ਲੁਣੇ ਕਰਮਾ ਸੰਦੜਾ ਖੇਤੁ",
+        "en": "Jeha Beejai So Lunai Karma Sandra Khet"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/d2419af4a8b5a1c04340042b476144d9.mp3",
+      "duration": { "minutes": 14, "seconds": 20 }
+    },
+    {
+      "id": "9d791b94-a25e-438c-8945-005377e1ebd9",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 54,
+      "name": {
+        "pa": "ਜੋ ਜੈਸੀ ਸੰਗਤਿ ਮਿਲੈ ਸੋ ਤੈਸੋ ਫਲੁ ਖਾਇ",
+        "en": "Jo Jaisee Sangat Milai So Taiso Fal Khaai"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/aac37412f65858b99910061337c7e08d.mp3",
+      "duration": { "minutes": 27, "seconds": 25 }
+    },
+    {
+      "id": "ee74f023-fe9b-42ed-88b9-bffc2b7c1cd1",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 55,
+      "name": {
+        "pa": "ਗੁਰੂ ਵਾਲੇ ਬਣਨਾ ਹੀ, ਗੁਰੂ ਨਾਲ ਰਿਸ਼ਤਾ ਜੋੜਨਾ ਹੈ",
+        "en": "Guru Wale Banna Hi, Guru Naal Rishta Jodna Hai"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/f460f1855638b7096e456fa2ce82cfc3.mp3",
+      "duration": { "minutes": 20, "seconds": 14 }
+    },
+    {
+      "id": "04e5b7bb-039c-437a-88c5-f66e7696bc2e",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 56,
+      "name": {
+        "pa": "ਨਾਮ-ਅਭਿਆਸ-ਕਮਾਈ ਸਮਾਗਮਾਂ ਦਾ ਆਰੰਭ",
+        "en": "Naam Abhiyaas Kamaaee Samagaman Da Aarambh"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/7342e87619cabffc5d6c37bacbd6ed3e.mp3",
+      "duration": { "minutes": 22, "seconds": 52 }
+    },
+    {
+      "id": "d902a0ad-f2f0-4aeb-be4d-f3573a20c958",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 57,
+      "name": {
+        "pa": "ਸਿਮਰਨ ਤੁਸੀਂ ਵੀ ਨਹੀਂ ਕੀਤਾ",
+        "en": "Simran Tusi Vi Nahi Keeta"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/19dcd4ff4e53b24c88b19a87f9e8a2fd.mp3",
+      "duration": { "minutes": 8, "seconds": 15 }
+    },
+    {
+      "id": "2fc0bcda-6409-4834-92d4-f11f2772c968",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 58,
+      "name": {
+        "pa": "ਦਾਅਵਾ ਛਡ ਰਹੈ ਨਿਰਦਾਵੈ",
+        "en": "Davaa Chhad Rahe Nirdaavai"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/eea0973498d0a5a7be42ff65799a5388.mp3",
+      "duration": { "minutes": 17, "seconds": 25 }
+    },
+    {
+      "id": "0cb282dc-85cd-4adc-ab11-2deea358a1f5",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 59,
+      "name": {
+        "pa": "ਸੰਤ ਬਾਬਾ ਕਰਤਾਰ ਸਿੰਘ ਜੀ 'ਖਾਲਸਾ' ਭਿੰਡਰਾਂ ਵਾਲਿਆਂ ਨਾਲ ਮਿਲਾਪ",
+        "en": "Sant Baba Kartar Singh Ji 'Khalsa' Bhindran Vaaleyan Naal Milaap"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/832c90c197df3a78965b9cfcce83ad7b.mp3",
+      "duration": { "minutes": 6, "seconds": 49 }
+    },
+    {
+      "id": "496495b8-7869-4e6b-9d2b-4082e2896159",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 60,
+      "name": {
+        "pa": "ਪਾਠ ਕਰਵਾਉਣ ਨਾਲੋਂ ਆਪ ਪਾਠ ਕਰਨ ਦਾ ਅਧਿਕ ਫਲ",
+        "en": "Paath Karvaun Naalon Aap Path Karan Da Adhik Fal"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/678e8d2f0c5f88cdd29c769a248aa97c.mp3",
+      "duration": { "minutes": 10, "seconds": 18 }
+    },
+    {
+      "id": "46d0139b-5221-42ed-a2c2-43128c819e5e",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 61,
+      "name": {
+        "pa": "ਸਤਿਗੁਰੂ ਜੀ ਵੱਲੋਂ ਹੋਰ ਆਯੂ ਦੀ ਬਖ਼ਸ਼ਿਸ਼",
+        "en": "Satguru Ji Vallon Hor Aayu Di Bakhshish"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/cee6c159d6fa1c9866eafa9b67b14e45.mp3",
+      "duration": { "minutes": 3, "seconds": 37 }
+    },
+    {
+      "id": "9bf5c2d3-b30f-439e-9e41-607e3ee74882",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 62,
+      "name": {
+        "pa": "ਭਾਈ ਸਾਹਿਬ ਭਾਈ ਵੀਰ ਸਿੰਘ ਜੀ ਨਾਲ ਮਿਲਾਪ",
+        "en": "Bhai Sahib Bhai Vir Singh Ji Naal Milaap"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/2e1373542d887eb4b0571a23339efc17.mp3",
+      "duration": { "minutes": 7, "seconds": 9 }
+    },
+    {
+      "id": "0e62421a-e215-45a4-9415-a1dc248f8247",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 63,
+      "name": {
+        "pa": "ਬਾਬਾ ਜੀ ਨੂੰ ਈਸਾ ਜੀ, ਮੁਹੰਮਦ ਸਾਹਿਬ ਅਤੇ ਭ੍ਰਿਗੂ ਜੀ ਦੇ ਦਰਸ਼ਨ ਤੇ ਬਚਨ ਹੋਣੇ",
+        "en": "Baba Ji Nu Eesa Ji, Muhammad Sahib Ate Bhrigoo Ji De Darshan Te Bachan Hone"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/ba1376decce56cd8134cf5ace78b8c81.mp3",
+      "duration": { "minutes": 1, "seconds": 47 }
+    },
+    {
+      "id": "24e556ed-dac1-4c4f-acd4-7f7819793295",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 64,
+      "name": {
+        "pa": "ਯੋਗੀ ਸੀਲ ਨਾਥ ਨੇ ਸੂਖਮ ਸਰੀਰ ਨਾਲ ਬਾਬਾ ਜੀ ਨੂੰ ਡਰਾਉਣ ਦਾ ਯਤਨ ਕਰਨਾ",
+        "en": "Yogi Seel Nath Ne Sukham Sareer Naal Baba Ji Nu Daraun Da Yatan Karna"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/5d78c146901926578a7d0c47d4a5d688.mp3",
+      "duration": { "minutes": 5, "seconds": 50 }
+    },
+    {
+      "id": "9f890e4e-31b9-4563-9ea5-a2fe39298a1b",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 65,
+      "name": {
+        "pa": "ਸ: ਕਾਬਲ ਸਿੰਘ ਧੂਤ ਕਲਾਂ ਦੇ ਜੀਵਨ ਵਿਚ ਪਲਟਾ",
+        "en": "S. Kabal Singh Dhoot Kalan De Jiwan Vich Palta"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/1428c112b14ecc014f09da1f8cd9e84e.mp3",
+      "duration": { "minutes": 8, "seconds": 29 }
+    },
+    {
+      "id": "ac5acf61-7f86-4675-b345-bcc40f9144e5",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 66,
+      "name": {
+        "pa": "ਗੁਰੂ-ਟੇਕ ਦੇ ਕੇ ਜੀਵਨ ਬਦਲਣ ਦੀ ਇੱਕ ਹੋਰ ਘਟਨਾ",
+        "en": "Guru-Tek De Ke Jiwan Badlan Di Ikk Hor Ghatna"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/b9ddd9f99505ae9aa7c3b72bfd1b6e3c.mp3",
+      "duration": { "minutes": 7, "seconds": 33 }
+    },
+    {
+      "id": "b80a13bd-def1-4db5-b600-c6c8ddaf4f49",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 67,
+      "name": {
+        "pa": "ਤੂੰ ਸ਼ਰਾਬ ਛੱਡ ਦੇ; ਗ਼ਰੀਬੀ ਤੈਨੂੰ ਛੱਡ ਜਾਵੇਗੀ",
+        "en": "Tu Sharab Chadd De; Garibi Tainu Chadd Javegi"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/5788003d247b65123b2e7397ebf16861.mp3",
+      "duration": { "minutes": 25, "seconds": 31 }
+    },
+    {
+      "id": "e10aa0a6-5b26-4992-9a30-0a9677b66ddc",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 68,
+      "name": {
+        "pa": "ਸ੍ਰੀ ਅਖੰਡ ਪਾਠ ਸਾਹਿਬ ਜੀ ਦੀ ੪੮ ਘੰਟੇ ਅੰਦਰ ਪੂਰਾ ਕਰਨ ਦੀ ਕੋਈ ਵਿਸ਼ੇਸ਼ ਮਰਯਾਦਾ ਨਹੀਂ ਹੈ",
+        "en": "Shri Akhand Path Sahib Ji Di 48 Ghante Andar Poora Karan Di Koi Vishesh Maryada Nahi Hai"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/845985d8e89e40fe96f04452c6d91250.mp3",
+      "duration": { "minutes": 4, "seconds": 12 }
+    },
+    {
+      "id": "565f0fea-9ef1-4a81-a5b6-876c8bfad966",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 69,
+      "name": {
+        "pa": "ਸਲੋਕ ॥ ਗੁਰਦੇਵ ਮਾਤਾ ਗੁਰਦੇਵ ਪਿਤਾ... ਦਾ ਮਹਾਤਮ",
+        "en": "Salok ॥ Gurdev Mata Gurdev Pita... Da Mahatam"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/bea929e7a16075dfe5cc249f59728949.mp3",
+      "duration": { "minutes": 4, "seconds": 50 }
+    },
+    {
+      "id": "11787cee-52b7-4b39-915d-c20b4ce106ea",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 70,
+      "name": { "pa": "ਗੁਰਬਾਣੀ ਦਾ ਸਤਿਕਾਰ", "en": "Gurbani Da Satkaar" },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/1fa7030f3c84653e86133e65a0e48cb0.mp3",
+      "duration": { "minutes": 5, "seconds": 10 }
+    },
+    {
+      "id": "bece9aa1-5a5f-4e34-aa41-74cd7f4fe932",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 71,
+      "name": {
+        "pa": "ਗੁਰਬਾਣੀ ਨੂੰ ਸੁਣ ਕੇ ਪੜ੍ਹਨ ਨਾਲ ਬਹੁਤਾ ਲਾਭ ਪ੍ਰਾਪਤ ਹੁੰਦਾ ਹੈ",
+        "en": "Gurbani Nu Sun Ke Parhan Naal Bahuta Laabh Prapat Hunda Hai"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/76405d75e424b579792fd98e54ab30fa.mp3",
+      "duration": { "minutes": 9, "seconds": 41 }
+    },
+    {
+      "id": "6cc786dd-aedb-4df3-b8b8-e2fa4b4bc184",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 72,
+      "name": {
+        "pa": "ਗੁਰਬਾਣੀ-ਪ੍ਰਤੱਖ ਔਸ਼ਧੀ",
+        "en": "Gurbani-Pratakh Aushadhi"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/c0ac041bbada5ae08399313331554cfc.mp3",
+      "duration": { "minutes": 11, "seconds": 54 }
+    },
+    {
+      "id": "bf888901-98f4-4714-9240-380d56e004c3",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 73,
+      "name": {
+        "pa": "ਅੰਮ੍ਰਿਤ ਦੀ ਮਹਾਨਤਾ ਅਤੇ ਗੁਰੂ ਵਾਲੇ ਬਣਨ ਵਾਸਤੇ ਅੰਮ੍ਰਿਤ ਛਕਣਾ ਜ਼ਰੂਰੀ ਹੈ",
+        "en": "Amrit Di Mahaanta Ate Guru Vale Banan Vaste Amrit Chakna Zaroori Hai"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/dac8b386b9a6854498503b4dec120bf2.mp3",
+      "duration": { "minutes": 16, "seconds": 33 }
+    },
+    {
+      "id": "7408f293-fbec-4a55-9b36-9e1ac67efc87",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 74,
+      "name": {
+        "pa": "(1) ਸਤਿਗੁਰੂ ਸ੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ ਦਾ ਸਤਿਕਾਰ (2) ਅਰਦਾਸ ਕਰਨ ਵਾਸਤੇ ਪੂਰਨ ਪ੍ਰਾਪਤੀ ਵਾਲੇ ਸਿੰਘਾਂ ਦੀ ਲੋੜ ਜਾਂ ਰਹਿਤਵਾਨ ਸਿੰਘਾਂ ਦੀ ਵੀ ਸਤਿਗੁਰੂ ਜੀ ਸੁਣਦੇ ਹਨ (3) ਗਲ ਵਿਚ ਹਜ਼ੂਰੀ ਰੱਖਣਾ ਜ਼ਰੂਰੀ ਹੈ",
+        "en": "(1) Satguru Sri Guru Granth Sahib Ji Da Satkaar (2) Ardaas Karan Vaste Pooran Prapti Vale Singhan Di Lorr Ja Rehatvaan Singhan Di Vi Satguru Ji Sunde Han (3) Gal Vich Hazoori Rakhna Zaroori Hai"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/37e15127952b24ca4e59a76e22d029eb.mp3",
+      "duration": { "minutes": 11, "seconds": 31 }
+    },
+    {
+      "id": "73fd4277-ba54-4372-b93e-459e6e6382ba",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 75,
+      "name": {
+        "pa": "ਸਤਿਗੁਰੂ ਸ੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ ਦਾ ਪ੍ਰਕਾਸ਼ ਕਰਨ ਸਬੰਧੀ ਹਦਾਇਤਾਂ",
+        "en": "Satguru Sri Guru Granth Sahib Ji Da Prakaash Karan Sambandhi Hadaytaa"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/36e16fdb361d0c5040122ca00c6d60e6.mp3",
+      "duration": { "minutes": 6, "seconds": 13 }
+    },
+    {
+      "id": "a7f4f174-5bcf-4252-9aef-b6dbf2fe8777",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 76,
+      "name": {
+        "pa": "ਸਤਿਗੁਰੂ ਸ੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ ਦਾ ਹੁਕਮਨਾਮਾ ਕਿਵੇਂ ਲੈਣਾ ਹੈ ?",
+        "en": "Satguru Sri Guru Granth Sahib Ji Da Hukumnama Kive Laina Hai?"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/f3f5d2a9779b298eaa86133bddbb1cc6.mp3",
+      "duration": { "minutes": 6, "seconds": 24 }
+    },
+    {
+      "id": "add175fe-51b6-48bd-94df-0e72ad119540",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 77,
+      "name": {
+        "pa": "ਏਕੁ ਪਿਤਾ ਏਕਸ ਕੇ ਹਮ ਬਾਰਿਕ",
+        "en": "Ek Pita Ekas Ke Ham Baarik"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/53412ea83d7c1a14c0e7c8b3788a1d61.mp3",
+      "duration": { "minutes": 2, "seconds": 16 }
+    },
+    {
+      "id": "5f1a68e6-a345-4856-9e46-205b20ada743",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 78,
+      "name": {
+        "pa": "ਲੋੜਵੰਦ ਵਿਦਿਆਰਥੀਆਂ ਅਤੇ ਵਿੱਦਿਅਕ ਅਦਾਰਿਆਂ ਦੀ ਸਹਾਇਤਾ",
+        "en": "Lorvand Vidyaarthian Ate Vidiyak Adaarean Di Sahaaeta"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/70aced1f7e175b5eea2bcb67c8746259.mp3",
+      "duration": { "minutes": 14, "seconds": 39 }
+    },
+    {
+      "id": "62de9c5a-0bf7-48c7-a8d9-5126da59ba7d",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 79,
+      "name": {
+        "pa": "ਸੇਵਾ ਨੂੰ ਹੀ ਭਗਤੀ ਬਨਾਉਣਾ",
+        "en": "Sewa Nu Hi Bhagti Banauna"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/a2cb3803929ed1c2c1833b6fdd607ed3.mp3",
+      "duration": { "minutes": 6, "seconds": 41 }
+    },
+    {
+      "id": "a1e319dc-61e1-4535-8349-36484d6a19f3",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 80,
+      "name": {
+        "pa": "ਕਬੀਰ ਸਾਧੂ ਕਉ ਮਿਲਨੇ ਜਾਈਐ ਸਾਥਿ ਨ ਲੀਜੈ ਕੋਇ ॥",
+        "en": "Kabir Saadhu Kau Milne Jaiai Sath Na Leejai Koe ॥"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/d96c2d5271bcaa90423e72e7c0964178.mp3",
+      "duration": { "minutes": 8, "seconds": 32 }
+    },
+    {
+      "id": "fbdafa5d-e0cb-4272-8286-33a1bd92460a",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 81,
+      "name": {
+        "pa": "ਮਾਨੁ ਅਪਮਾਨ ਵਿਚ ਸਮ-ਬਿਰਤੀ",
+        "en": "Maan Apmaan Vich Sam-Birtee"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/8099afe9b6ae1c464677d293e3234bbc.mp3",
+      "duration": { "minutes": 5, "seconds": 46 }
+    },
+    {
+      "id": "5a529d62-587a-4a13-805e-d3e4819e2e29",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 82,
+      "name": {
+        "pa": "ਆਪਸ ਤੇ ਊਪਰਿ ਸਭ ਜਾਣਹੁ",
+        "en": "Aapas Te Upar Sabh Janoh"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/7dca77b1edc0bcefc7d5846c5d530d5b.mp3",
+      "duration": { "minutes": 13, "seconds": 4 }
+    },
+    {
+      "id": "472cca31-034d-40ca-a277-25fbadc1cb98",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 83,
+      "name": {
+        "pa": "ਸੰਤਨ ਕੀ ਸੁਣ ਸਾਚੀ ਸਾਖੀ ॥ ਸੋ ਬੋਲਹਿ ਜੋ ਪੇਖਹਿ ਆਖੀ ॥",
+        "en": "Santan Ki Sun Saachi Saakhi ॥ So Boleh Jo Pekheh Aakhi ॥"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/e832cf973fde7c070777cee8676c4b58.mp3",
+      "duration": { "minutes": 13, "seconds": 0 }
+    },
+    {
+      "id": "14516aa3-5e77-477c-9914-2d2e3c0931bf",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 84,
+      "name": { "pa": "ਗੁਰਧਾਮ ਯਾਤਰਾ", "en": "Gurdham Yatra" },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/04c96abf7eb85635d580823aee905dd3.mp3",
+      "duration": { "minutes": 17, "seconds": 0 }
+    },
+    {
+      "id": "eb57bb0f-6ebb-4d13-b97f-f9f48b9c0ab9",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 85,
+      "name": {
+        "pa": "ਬਿਰਥੀ ਕਦੇ ਨ ਹੋਵਈ ਜਨ ਕੀ ਅਰਦਾਸਿ ॥",
+        "en": "Birthi Kade Na Hovai Jan Ki Ardaas ॥"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/03f0ac60f206a5001cd6539d1d69e929.mp3",
+      "duration": { "minutes": 11, "seconds": 15 }
+    },
+    {
+      "id": "6278a8ce-a1ae-49e9-8117-3a8a8ada475c",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 86,
+      "name": {
+        "pa": "ਦੁਆਈ ਅਤੇ ਪ੍ਰਹੇਜ਼ ਦੋਵੇਂ ਜ਼ਰੂਰੀ ਹਨ",
+        "en": "Duai Ate Prahez Dove Zaroori Han"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/05058fca186e9322bb5f6e050d78bdab.mp3",
+      "duration": { "minutes": 11, "seconds": 50 }
+    },
+    {
+      "id": "40d5e151-0114-4426-8e38-becd96f07a3a",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 87,
+      "name": {
+        "pa": "ਕੜਾਹ-ਪ੍ਰਸ਼ਾਦ ਨੂੰ ਸੀਤ-ਗਰਮ ਕਰ ਕੇ ਭੋਗ ਲਵਾਉਣਾ ਚਾਹੀਦਾ ਹੈ",
+        "en": "Karah-Prashad Nu Seet-Garam Kar Ke Bhog Lavauna Chahida Hai"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/1c7ae1e3eca86c4241d653c6b469d7fa.mp3",
+      "duration": { "minutes": 1, "seconds": 42 }
+    },
+    {
+      "id": "5705e2a2-946c-4b49-8a84-36af93aa366f",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 88,
+      "name": {
+        "pa": "ਸ੍ਰੀ ਗੁਰੂ ਤੇਗ ਬਹਾਦਰ ਸਾਹਿਬ ਜੀ ਦੇ ਤਿੰਨ-ਸੌ-ਸਾਲਾ ਸ਼ਹੀਦੀ ਪੁਰਬ ਨੂੰ ਸਮਰਪਿਤ ਵਿਸ਼ਾਲ ਨਗਰ ਕੀਰਤਨ ਕੱਢਣਾ",
+        "en": "Sri Guru Tegh Bahadur Sahib Ji De Tin-Sau-Sala Shaheedi Purab Nu Smarpit Vishal Nagar Kirtan Kadna"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/dbb9593865097624afc52873078a3d24.mp3",
+      "duration": { "minutes": 7, "seconds": 46 }
+    },
+    {
+      "id": "49f07c95-6450-4822-8401-5e4372444684",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 89,
+      "name": { "pa": "ਭਵਿੱਖਤ ਬਚਨ", "en": "Bhavikkhat Bachan" },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/c7e67110ffd8e3d5c7989628054703a6.mp3",
+      "duration": { "minutes": 3, "seconds": 6 }
+    },
+    {
+      "id": "761d2b9f-3e2c-4e9d-8a44-38cbf2a6b121",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 90,
+      "name": {
+        "pa": "ਬਾਬਾ ਜੀ ਨੇ ਤਿੰਨ ਸਾਲ ਖਾਲਸਾ ਪੰਥ ਲਈ ਭਜਨ-ਸਿਮਰਨ ਕਰਨਾ",
+        "en": "Baba Ji Ne Tin Saal Khalsa Panth Lai Bhajan-Simran Karna"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/6ab7ffaaec3294f130ceabb23a2cfc7a.mp3",
+      "duration": { "minutes": 3, "seconds": 30 }
+    },
+    {
+      "id": "8a9683e3-3589-4a6c-831f-5e9d418f3c77",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 91,
+      "name": {
+        "pa": "ਮੱਥਾ ਟਿਕਾਉਣ ਦਾ ਅਧਿਕਾਰ ਕੇਵਲ ਸਤਿਗੁਰੂ ਸ੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ ਨੂੰ ਹੀ ਹੈ",
+        "en": "Mattha Tikaun Da Adhikar Keval Satguru Sri Guru Granth Sahib Ji Nu Hi Hai"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/ca7724b45d0001db19325507b41d081d.mp3",
+      "duration": { "minutes": 2, "seconds": 50 }
+    },
+    {
+      "id": "275be138-1c15-404c-9af2-2e803fb9b830",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 92,
+      "name": {
+        "pa": "ਮਨ ਇਕਾਗਰ ਕਰਨ ਦਾ ਤਰੀਕਾ",
+        "en": "Mann Ikagar Karan Da Tarika"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/1676eb47676dd7893aef47f4d783c4e4.mp3",
+      "duration": { "minutes": 15, "seconds": 19 }
+    },
+    {
+      "id": "02b69e58-4578-4d8f-ae98-fd8303d73171",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 93,
+      "name": {
+        "pa": "ਗੁਰਸਿੱਖ ਦਾ ਇਮਤਿਹਾਨ ਹਰ ਰੋਜ਼ ਹੁੰਦਾ ਹੈ",
+        "en": "Gursikh Da Imtehan Har Roz Hunda Hai"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/49ede47a30b9a8f86b20d9da24133985.mp3",
+      "duration": { "minutes": 3, "seconds": 55 }
+    },
+    {
+      "id": "8485b48b-8059-4e74-b01f-0c5b97dcae52",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 94,
+      "name": {
+        "pa": "ਦਸਵੰਧ ਕੱਢਣਾ ਅਤਿ ਜ਼ਰੂਰੀ ਹੈ",
+        "en": "Dasvandh Kaddna At Zaroori Hai"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/9349c7f1d2e7ab6661fa5e80d732bf6f.mp3",
+      "duration": { "minutes": 4, "seconds": 32 }
+    },
+    {
+      "id": "bba3e846-5c36-48a5-b56b-6d9cd4db1a9e",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 95,
+      "name": {
+        "pa": "ਅਰਦਾਸ ਸਮੇਂ ਦੋਵੇਂ ਹੱਥ ਜੋੜਨੇ ਚਾਹੀਦੇ ਹਨ",
+        "en": "Ardaas Same Doven Hath Jorne Chahide Han"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/bab339b47b83d508313403136c13f139.mp3",
+      "duration": { "minutes": 1, "seconds": 50 }
+    },
+    {
+      "id": "29961485-f6c3-408a-84f3-0aa5d3d9e8b3",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 96,
+      "name": {
+        "pa": "ਗੁਰਸਿੱਖ ਲਈ ਸੰਗਤੀ ਅਰਦਾਸ ਜ਼ਰੂਰੀ",
+        "en": "Gursikh Lai Sangati Ardaas Zaroori"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/33b9da6c12103dfc2e5ec03a987f2c2d.mp3",
+      "duration": { "minutes": 11, "seconds": 59 }
+    },
+    {
+      "id": "4b7b2607-2a33-4c18-811e-62d5369ae5e8",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 97,
+      "name": {
+        "pa": "ਸਤਿਗੁਰਿ ਤੁਮਰੇ ਕਾਜ ਸਵਾਰੇ",
+        "en": "Satgur Tumre Kaaj Savaare"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/ec2ba940b6bc3b6347c4a4b6c5c2962e.mp3",
+      "duration": { "minutes": 8, "seconds": 31 }
+    },
+    {
+      "id": "e6b52d46-073a-4954-b673-17ead3fb3125",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 98,
+      "name": {
+        "pa": "ਜੋ ਜੋ ਚਿਤਵਹਿ ਸਾਧ ਜਨ ਸੋ ਲੇਤਾ ਮਾਨਿ ॥",
+        "en": "Jo Jo Chitvai Saadh Jan So Leta Man ॥"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/3b57b14b91f8bd94dce1b25974477006.mp3",
+      "duration": { "minutes": 9, "seconds": 42 }
+    },
+    {
+      "id": "a865f1ac-f2ed-46c1-978b-811d23d30041",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 99,
+      "name": {
+        "pa": "ਗੁਰਬਾਣੀ ਤੇ ਮੂਲ ਮੰਤ੍ਰ ਦੀ ਸ਼ਕਤੀ",
+        "en": "Gurbani Te Mool Mantar Di Shakti"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/753bca855ae5663c6c3cde8161fc3902.mp3",
+      "duration": { "minutes": 19, "seconds": 15 }
+    },
+    {
+      "id": "537667b1-7812-45da-9640-d3027d70b09c",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 100,
+      "name": {
+        "pa": "ਹੋਰ ਹੱਡ ਬੀਤੀਆ ਘਟਨਾਵਾਂ",
+        "en": "Hor Hadd Bitia Ghatnavan"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/d89e87de541c54d159cb81d99be08541.mp3",
+      "duration": { "minutes": 12, "seconds": 56 }
+    },
+    {
+      "id": "27fb9425-4a6c-40cc-81b3-f30dcdb79030",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 101,
+      "name": {
+        "pa": "ਧਰਮ-ਯੁੱਧ ਮੋਰਚੇ 'ਚ ਗ੍ਰਿਫ਼ਤਾਰੀ",
+        "en": "Dharam-Yudh Morche Vich Griftaari"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/cab9bd1b35c0c086412c7e964e5b51b3.mp3",
+      "duration": { "minutes": 28, "seconds": 51 }
+    },
+    {
+      "id": "42a1d554-886e-43cd-b404-3b860ea4fd40",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 102,
+      "name": {
+        "pa": "ਪਾਰਸੀ ਜੀਵਨ ਦਾ ਚਮਤਕਾਰ",
+        "en": "Paarsi Jiwan Da Chamatkar"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/cc48cb7d31c42c1c28a62dbdb129bdb2.mp3",
+      "duration": { "minutes": 11, "seconds": 33 }
+    },
+    {
+      "id": "12bd2c84-2f6f-44b3-90c9-aeed0558265d",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 103,
+      "name": {
+        "pa": "ਸਜਣ ਮੇਰੇ ਰੰਗੁਲੇ ਜਾਇ ਸੁਤੇ ਜੀਰਾਣਿ",
+        "en": "Sajjan Mere Rangle Jae Sutte Jeeran"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/341eec2c84cfdc5288fb7df0fc3c7cd9.mp3",
+      "duration": { "minutes": 14, "seconds": 28 }
+    },
+    {
+      "id": "50e57121-0c1c-4502-ab1c-17052f87b4a2",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 104,
+      "name": { "pa": "ਅੰਤਿਮ ਯਾਤਰਾ", "en": "Antim Yatra" },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/b08ddc5b2f15bf6652cbd84d88cdbe74.mp3",
+      "duration": { "minutes": 6, "seconds": 41 }
+    },
+    {
+      "id": "52390e8f-748c-45f3-943f-39e455d87365",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 105,
+      "name": { "pa": "ਦੁਸਹਿਰਾ", "en": "Dusehra" },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/2e71cff197299e1d4045439ff5998618.mp3",
+      "duration": { "minutes": 6, "seconds": 41 }
+    },
+    {
+      "id": "ba14085f-c8bb-4225-a0fe-100ad2d94ca8",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 106,
+      "name": { "pa": "ਅੰਤਿਮ ਬੇਨਤੀ", "en": "Antim Benti" },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/2dc1f4191f82e2406dae33b11b5dc26a.mp3",
+      "duration": { "minutes": 13, "seconds": 57 }
+    },
+    {
+      "id": "f8549530-ae4d-46dd-83d7-0bef5df190fa",
+      "audioBookId": "25fde50d-7adc-4c91-a342-24530c7acb01",
+      "audioBookOrder": 107,
+      "name": {
+        "pa": "ਪੁਰਾਤੱਤਵ ਇਤਿਹਾਸ-ਰਾਮਪੁਰ ਖੇੜਾ",
+        "en": "Purattav Itehaas - Rampur Khera"
+      },
+      "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/5a0d50b93ab7806b13debc9a81a06750.mp3",
+      "duration": { "minutes": 27, "seconds": 34 }
     }
   ]
 }
