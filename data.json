@@ -330,6 +330,32 @@
       "pdfUrl": "https://www.rampurkhera.com/upload_images/16824808959b0e46f32699.pdf",
       "imagePath": "images/audioBooks/RampurKhera/se_kinehiya.jpg",
       "language": "pa"
+    },
+    {
+      "id": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "authorId": "f1a4c42f-b73c-495b-a0e8-6eb553e223f4",
+      "authorOrder": 1,
+      "name": {
+        "pa": "ਸ੍ਰੀ ਗੁਰੂ ਨਾਨਕ ਚਮਤਕਾਰ",
+        "en": "Sri Guru Nanak Chamatkar"
+      },
+      "pdfUrlType": "book",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=1BvCMT8-nQT2FG0Z6i3fn_1e39VFIoarI",
+      "imagePath": "images/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar.jpg",
+      "language": "pa"
+    },
+    {
+      "id": "740385f4-ae9f-49b6-a872-47203ea0bfe4",
+      "authorId": "f1a4c42f-b73c-495b-a0e8-6eb553e223f4",
+      "authorOrder": 2,
+      "name": {
+        "pa": "ਸ੍ਰੀ ਕਲਗੀਧਰ ਚਮਤਕਾਰ",
+        "en": "Sri Kalgidhar Chamatkar"
+      },
+      "pdfUrlType": "book",
+      "pdfUrl": "https://drive.google.com/uc?export=download&id=13V-_AMNqVhgJG3KMtZuq7eVPHp8Uobh_",
+      "imagePath": "images/audioBooks/BhaiVirSinghJi/SriKalgidharChamatkar.jpg",
+      "language": "pa"
     }
   ],
   "chapters": [
@@ -3804,6 +3830,565 @@
       },
       "audioPath": "https://www.rampurkhera.com/admin/rampurkhera_live/uploads/5a0d50b93ab7806b13debc9a81a06750.mp3",
       "duration": { "minutes": 27, "seconds": 34 }
+    },
+    {
+      "id": "9b764db3-e8ca-45e5-ac9f-960f906dc0e7",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 1,
+      "name": { "pa": "ਖਰਾ ਸੌਦਾ", "en": "Khara Sauda" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/01 Sacha Sauda.mp3",
+      "duration": { "hours": 1, "minutes": 24, "seconds": 6 }
+    },
+    {
+      "id": "d6ee4576-44ad-455c-9349-d12eda125798",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 2,
+      "name": { "pa": "ਭਾਈ ਭਗੀਰਥ", "en": "Bhai Bhageerath" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/02 Bhai Bhageerath.mp3",
+      "duration": { "hours": 1, "minutes": 0, "seconds": 13 }
+    },
+    {
+      "id": "c7f7eec7-2619-4803-b48b-996cf5886635",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 3,
+      "name": { "pa": "ਸੁਲਤਾਨਪੁਰ ਵੇਈਂ ਨਦੀ", "en": "Sultanpur Vain Nadi" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/03 Sultanpur Vain Nadi.mp3",
+      "duration": { "hours": 1, "minutes": 4, "seconds": 27 }
+    },
+    {
+      "id": "6be75063-2c19-4ca6-8f28-3d298b48892a",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 4,
+      "name": { "pa": "ਸੱਜਣ ਠੱਗ", "en": "Sajjan Thug" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/04 Sajjan Thug.mp3",
+      "duration": { "hours": 1, "minutes": 21, "seconds": 39 }
+    },
+    {
+      "id": "cf6678d3-c6fd-4e21-ae38-f77b8c21999b",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 5,
+      "name": {
+        "pa": "ਕੁਰਛੇਤ੍ਰ - ਪਾਣੀਪਤ - ਦਿੱਲੀ",
+        "en": "Kurukshetra - Panipat - Delhi"
+      },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/05 Kruskshetar-Panipat-Delhi.mp3",
+      "duration": { "minutes": 44, "seconds": 25 }
+    },
+    {
+      "id": "910f2c89-3726-4f6c-9d9a-91ae700b8720",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 6,
+      "name": { "pa": "ਸ਼ੇਖ ਬਜੀਦ ਸੱਯਦ", "en": "Sheikh Bajeedh Sayyad" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/06 Sheikh Bajeedh - Nanak Mata.mp3",
+      "duration": { "minutes": 58, "seconds": 53 }
+    },
+    {
+      "id": "709d6ed6-3c7c-45d9-868b-fdef452f9ff3",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 7,
+      "name": { "pa": "ਸਾਲਸ ਰਾਇ - ਗਯਾ", "en": "Salas Rai - Gaya" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/07 Salas Rai - Gaya.mp3",
+      "duration": { "hours": 1, "minutes": 6, "seconds": 34 }
+    },
+    {
+      "id": "184d29f1-def5-4708-8b19-3f0426f64196",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 8,
+      "name": {
+        "pa": "ਠੱਗ ਨਿਸਤਾਰਾ - ਭਾਈ ਸੂਜਾ",
+        "en": "Thug Nistara - Bhai Suja"
+      },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/08 Thug Nistara - Bhai Suja.mp3",
+      "duration": { "minutes": 49, "seconds": 38 }
+    },
+    {
+      "id": "18060b2f-5546-48af-b557-4dd9e18c1db9",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 9,
+      "name": { "pa": "ਨੂਰ ਸ਼ਾਹ ਨਿਸਤਾਰਾ - 1", "en": "Noor Shah Nistara - 1" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/09 Noor Shah Nistara.mp3",
+      "duration": { "minutes": 52, "seconds": 44 }
+    },
+    {
+      "id": "d5d24c6e-8066-4814-898a-aabe0d2f48c2",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 10,
+      "name": { "pa": "ਨੂਰ ਸ਼ਾਹ ਨਿਸਤਾਰਾ - 2", "en": "Noor Shah Nistara - 2" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/10 Noor Shah Nistara.mp3",
+      "duration": { "minutes": 51, "seconds": 48 }
+    },
+    {
+      "id": "a1ad0baa-7fb6-480a-b043-b48eda2dcb08",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 11,
+      "name": { "pa": "ਭਾਈ ਭੂਮੀਆ", "en": "Bhai Bhoomia" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/11 Bhai Bhoomia.mp3",
+      "duration": { "minutes": 47, "seconds": 19 }
+    },
+    {
+      "id": "0d7dbdcd-feeb-458c-91d1-f402cc6dac43",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 12,
+      "name": { "pa": "ਗੋਸ਼ਟ ਸ਼ੇਖ ਬ੍ਰਹਮ", "en": "Gosht Sheikh Brahm" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/12 Goshr Sheik Brahm.mp3",
+      "duration": { "minutes": 38, "seconds": 30 }
+    },
+    {
+      "id": "e6a8e896-b963-4fb5-b5ef-95a838d488b6",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 13,
+      "name": { "pa": "ਭਾਈ ਝੰਡਾ ਜੀਓ - 1", "en": "Bhai Jhanda Jio - 1" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/13 Bhai Jhanda Jio.mp3",
+      "duration": { "hours": 1, "minutes": 0, "seconds": 54 }
+    },
+    {
+      "id": "92ebeac3-429c-434f-8e11-7c1e7438ef1e",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 14,
+      "name": { "pa": "ਭਾਈ ਝੰਡਾ ਜੀਓ - 2", "en": "Bhai Jhanda Jio - 2" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/14 Bhai Jhanda Jio.mp3",
+      "duration": { "minutes": 38, "seconds": 17 }
+    },
+    {
+      "id": "d2ea5ec5-0c06-4a16-90d3-1cc2411d989e",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 15,
+      "name": { "pa": "ਜਗਨ ਨਾਥ ਫੇਰੀ", "en": "Jaganath Pheri" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/15 Jaganath Pheri.mp3",
+      "duration": { "hours": 1, "minutes": 19, "seconds": 38 }
+    },
+    {
+      "id": "d56d1d68-9bbc-4d25-b89f-4bc40ecff030",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 16,
+      "name": { "pa": "ਮਾਈ ਜੱਸੀ - 1", "en": "Mai Jassi - 1" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/16 Mai Jassi.mp3",
+      "duration": { "minutes": 44, "seconds": 21 }
+    },
+    {
+      "id": "7c0e50c1-ec84-42de-8696-53dd568f4c3b",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 17,
+      "name": { "pa": "ਮਾਈ ਜੱਸੀ - 2", "en": "Mai Jassi - 2" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/17 Mai Jassi.mp3",
+      "duration": { "minutes": 38, "seconds": 39 }
+    },
+    {
+      "id": "9c4d660e-5010-47f1-8a2f-3d9f1d9d2bd6",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 18,
+      "name": { "pa": "ਹਮਜ਼ਾ ਗੌਂਸ", "en": "Hamza Ghos" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/18 Hamza Ghos.mp3",
+      "duration": { "minutes": 56, "seconds": 37 }
+    },
+    {
+      "id": "ff29c39a-495f-437e-aeda-1a1ebb8fade9",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 19,
+      "name": { "pa": "ਗੋਸ਼ਟ ਮੀਆਂ ਮਿੱਠਾ", "en": "Gosht Mia Mitha" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/19 Gosht Mia Mitha.mp3",
+      "duration": { "minutes": 53, "seconds": 20 }
+    },
+    {
+      "id": "e1ea89db-8788-4011-befa-f9f285176fe5",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 20,
+      "name": { "pa": "ਰਾਜਾ ਸ਼ਿਵਨਾਭ - 1", "en": "Raja Shivnab - 1" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/20 Raja Shivnab.mp3",
+      "duration": { "minutes": 47, "seconds": 15 }
+    },
+    {
+      "id": "08a8b1a9-4bc3-4ab1-b988-17cdd096120d",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 21,
+      "name": { "pa": "ਰਾਜਾ ਸ਼ਿਵਨਾਭ - 2", "en": "Raja Shivnab - 2" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/21 Raja Shivnab.mp3",
+      "duration": { "minutes": 48, "seconds": 57 }
+    },
+    {
+      "id": "28f0f1eb-8fb6-45f0-a0ac-bd22f3d579ff",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 22,
+      "name": { "pa": "ਰਾਜਾ ਸ਼ਿਵਨਾਭ - 3", "en": "Raja Shivnab - 3" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/22 Raja Shivnab.mp3",
+      "duration": { "minutes": 25, "seconds": 40 }
+    },
+    {
+      "id": "b016aa5e-0396-448b-9faf-71ae382f93f5",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 23,
+      "name": { "pa": "ਭਰਥਰਿ ਜੋਗੀ - 1", "en": "Bharthar Jogi - 1" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/67A Bharthar Jogi.mp3",
+      "duration": { "minutes": 25, "seconds": 34 }
+    },
+    {
+      "id": "4032d4c0-b639-4162-8400-ba2003ffb7e0",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 24,
+      "name": { "pa": "ਭਰਥਰਿ ਜੋਗੀ - 2", "en": "Bharthar Jogi - 2" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/67B Bharthar Jogi.mp3",
+      "duration": { "minutes": 24, "seconds": 26 }
+    },
+    {
+      "id": "8d488da2-9c75-4988-9fd7-d57b0d613f11",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 25,
+      "name": { "pa": "ਭਰਥਰਿ ਜੋਗੀ - 3", "en": "Bharthar Jogi - 3" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/67C Bharthar Jogi.mp3",
+      "duration": { "minutes": 21, "seconds": 47 }
+    },
+    {
+      "id": "55760994-ac49-41ec-8b6b-b5e0322e3100",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 26,
+      "name": { "pa": "ਅਜਿੱਤਾ ਰੰਧਾਵਾ - 1", "en": "Ajita Randhawa - 1" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/70A Ajita Randhawa.mp3",
+      "duration": { "minutes": 20, "seconds": 23 }
+    },
+    {
+      "id": "c305fe2d-4453-4dd9-8648-1a8a8b3b0e55",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 27,
+      "name": { "pa": "ਅਜਿੱਤਾ ਰੰਧਾਵਾ - 2", "en": "Ajita Randhawa - 2" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/70B Ajita Randhawa.mp3",
+      "duration": { "minutes": 19, "seconds": 27 }
+    },
+    {
+      "id": "563d2e93-ea05-479c-8b8d-548eca9dcf59",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 28,
+      "name": { "pa": "ਅਰਸ਼ੀ ਨੂਰ - 1", "en": "Arshi Noor - 1" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/71A Arshi Noor.mp3",
+      "duration": { "minutes": 32, "seconds": 5 }
+    },
+    {
+      "id": "fed4f337-45e2-4bb5-a267-d5d954bdd0f4",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 29,
+      "name": { "pa": "ਅਰਸ਼ੀ ਨੂਰ - 2", "en": "Arshi Noor - 2" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/71B Arshi Noor.mp3",
+      "duration": { "minutes": 31, "seconds": 55 }
+    },
+    {
+      "id": "a61f7dd3-eab0-4efa-b78f-59a23876d4ad",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 30,
+      "name": { "pa": "ਭਰਥਰਿ ਨਿਸਤਾਰਾ - 1", "en": "Bharthar Nistara - 1" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/72A Bharthar Nistara.mp3",
+      "duration": { "minutes": 21, "seconds": 45 }
+    },
+    {
+      "id": "394f4bd0-e683-4d08-958b-2399f87c464d",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 31,
+      "name": { "pa": "ਭਰਥਰਿ ਨਿਸਤਾਰਾ - 2", "en": "Bharthar Nistara - 2" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/72B Bharthar Nistara.mp3",
+      "duration": { "minutes": 18, "seconds": 2 }
+    },
+    {
+      "id": "24ccbae8-f81e-45a6-a7de-de0df643ac6a",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 32,
+      "name": { "pa": "ਮੱਕਾ - 1", "en": "Mecca - 1" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/74A Mecca.mp3",
+      "duration": { "minutes": 18, "seconds": 24 }
+    },
+    {
+      "id": "b7514ae6-799e-4a56-8b4f-7546327472bd",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 33,
+      "name": { "pa": "ਮੱਕਾ - 2", "en": "Mecca - 2" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/74B Mecca.mp3",
+      "duration": { "minutes": 21, "seconds": 10 }
+    },
+    {
+      "id": "26757d45-55c9-41c7-9555-c2ad65c19a7e",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 34,
+      "name": { "pa": "ਬਗ਼ਦਾਦ ਫੇਰੀ - 1", "en": "Baghdad Pheri - 1" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/75A Baghdad Pheri.mp3",
+      "duration": { "minutes": 29, "seconds": 19 }
+    },
+    {
+      "id": "169b7a85-7d1a-4bc5-90e0-4eee0cef391c",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 35,
+      "name": { "pa": "ਬਗ਼ਦਾਦ ਫੇਰੀ - 2", "en": "Baghdad Pheri - 2" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/75B Baghdad Pheri.mp3",
+      "duration": { "minutes": 30, "seconds": 25 }
+    },
+    {
+      "id": "35ed2951-3f5a-4de3-9998-77403e7d869f",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 36,
+      "name": { "pa": "ਕੰਧਾਰ ਫੇਰੀ - 1", "en": "Kandhar Pheri - 1" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/76A Kandhar Di Pheri.mp3",
+      "duration": { "minutes": 25, "seconds": 19 }
+    },
+    {
+      "id": "5801e736-512e-45a5-b4b4-0f138e9bda1f",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 37,
+      "name": { "pa": "ਕੰਧਾਰ ਫੇਰੀ - 2", "en": "Kandhar Pheri - 2" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/76B Kandhar Di Pheri.mp3",
+      "duration": { "minutes": 24, "seconds": 33 }
+    },
+    {
+      "id": "9c19f578-2a06-42bd-902e-3a1460be6a21",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 38,
+      "name": { "pa": "ਕੰਧਾਰ ਫੇਰੀ - 3", "en": "Kandhar Pheri - 3" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/76C Kandhar Di Pheri.mp3",
+      "duration": { "minutes": 23, "seconds": 7 }
+    },
+    {
+      "id": "487651ae-f961-4012-8df8-745989e212d3",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 39,
+      "name": { "pa": "ਪਠਾਣ ਸਿਕਦਾਰ - 1", "en": "Pathan Sikdar - 1" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/77A Pathan Sikdar.mp3",
+      "duration": { "minutes": 23, "seconds": 43 }
+    },
+    {
+      "id": "17ae344f-ebb3-481f-a1d3-451314d664e2",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 40,
+      "name": { "pa": "ਪਠਾਣ ਸਿਕਦਾਰ - 2", "en": "Pathan Sikdar - 2" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/77B Pathan Sikdar.mp3",
+      "duration": { "minutes": 25, "seconds": 7 }
+    },
+    {
+      "id": "4cacac4f-82f2-46bf-a31d-10795eaa9bd8",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 41,
+      "name": { "pa": "ਭਗਤਾਂ ਨਾਲ ਗੋਸ਼ਟਿ", "en": "Bhagtan Nal Goshti" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/80 Bhagtan Nal Goshti.mp3",
+      "duration": { "minutes": 27, "seconds": 22 }
+    },
+    {
+      "id": "46358d73-d077-4de8-a666-92155b281b0e",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 42,
+      "name": {
+        "pa": "ਗੁਰੂ ਬਾਬਾ ਅਚਲ ਵਟਾਲੇ - 1",
+        "en": "Guru Baba Achal Vatale - 1"
+      },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/81A Achal Vatale.mp3",
+      "duration": { "minutes": 22, "seconds": 4 }
+    },
+    {
+      "id": "8c4e84e3-805a-4fe6-9136-132cfe487408",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 43,
+      "name": {
+        "pa": "ਗੁਰੂ ਬਾਬਾ ਅਚਲ ਵਟਾਲੇ - 2",
+        "en": "Guru Baba Achal Vatale - 2"
+      },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/81B Achal Vatale.mp3",
+      "duration": { "minutes": 19, "seconds": 22 }
+    },
+    {
+      "id": "6a204edf-cfd1-457d-8374-ab2b7de71033",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 44,
+      "name": { "pa": "ਮੁਲਤਾਨ - 1", "en": "Multan - 1" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/83A Multan.mp3",
+      "duration": { "minutes": 23, "seconds": 49 }
+    },
+    {
+      "id": "bb7d07b6-ab5c-45c0-b7f7-42ab0f47d96a",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 45,
+      "name": { "pa": "ਮੁਲਤਾਨ - 2", "en": "Multan - 2" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/83B Multan.mp3",
+      "duration": { "minutes": 24, "seconds": 52 }
+    },
+    {
+      "id": "5fb0655b-a45d-4ecf-93ad-09fa4d30749f",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 46,
+      "name": { "pa": "ਉਬਾਰੇ ਖਾਨ - 1", "en": "Ubare Khan - 1" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/86A Ubare Khan.mp3",
+      "duration": { "minutes": 30, "seconds": 2 }
+    },
+    {
+      "id": "021033cf-80d5-4bf9-98af-671162655819",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 47,
+      "name": { "pa": "ਉਬਾਰੇ ਖਾਨ - 2", "en": "Ubare Khan - 2" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/86B Ubare Khan.mp3",
+      "duration": { "minutes": 29, "seconds": 57 }
+    },
+    {
+      "id": "e7462daa-3a65-4c07-9101-b8b5d9c12c8c",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 48,
+      "name": { "pa": "ਉਬਾਰੇ ਖਾਨ - 3", "en": "Ubare Khan - 3" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/86C Ubare Khan.mp3",
+      "duration": { "minutes": 34, "seconds": 12 }
+    },
+    {
+      "id": "21cbd49d-b262-475f-b344-c13f64e4b1af",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 49,
+      "name": { "pa": "ਸ੍ਰੀ ਸੀਹਾਂ ਉਪਲ - 1", "en": "Sri Seehan Uppal - 1" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/87A Sri Seehan Uppal.mp3",
+      "duration": { "minutes": 24, "seconds": 48 }
+    },
+    {
+      "id": "8bd0c510-58cc-4c50-a798-7b6890452602",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 50,
+      "name": { "pa": "ਸ੍ਰੀ ਸੀਹਾਂ ਉਪਲ - 2", "en": "Sri Seehan Uppal - 2" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/87B Sri Seehan Uppal.mp3",
+      "duration": { "minutes": 25, "seconds": 2 }
+    },
+    {
+      "id": "342bfdcc-5503-4f13-a8ea-1baf76281f9c",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 51,
+      "name": { "pa": "ਸ੍ਰੀ ਸੀਹਾਂ ਉਪਲ - 3", "en": "Sri Seehan Uppal - 3" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/87C Sri Seehan Uppal.mp3",
+      "duration": { "minutes": 26, "seconds": 2 }
+    },
+    {
+      "id": "87b79a7a-258b-4888-9e23-8a5c8086ad86",
+      "audioBookId": "75f9b6cc-d424-4749-bca4-c1500192dc47",
+      "audioBookOrder": 52,
+      "name": { "pa": "ਭਾਈ ਮਾਲੋ ਮਾਂਗਾ", "en": "Bhai Malo Manga" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriGuruNanakChamatkar/88 Bhai Malo Te Bhai Manga.mp3",
+      "duration": { "minutes": 15, "seconds": 0 }
+    },
+    {
+      "id": "8dba3158-f02f-46e2-b1fc-f67d9c41f2db",
+      "audioBookId": "740385f4-ae9f-49b6-a872-47203ea0bfe4",
+      "audioBookOrder": 1,
+      "name": { "pa": "ਹੇਮਕੁੰਟ ਤੋਂ ਸਚਖੰਡ", "en": "Hemkunt to Sachkhand" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriKalgidharChamatkar/01 Hemkunt to Sachkhand.mp3",
+      "duration": { "minutes": 59, "seconds": 5 }
+    },
+    {
+      "id": "fc2f593f-2107-4b08-b304-c0b1e4ce71c3",
+      "audioBookId": "740385f4-ae9f-49b6-a872-47203ea0bfe4",
+      "audioBookOrder": 2,
+      "name": { "pa": "ਸਚਖੰਡ ਤੋਂ ਮਾਤਲੋਕ", "en": "Sachkhand to Matlok" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriKalgidharChamatkar/02 Sachkhand to Mat Lok.mp3 ",
+      "duration": { "hours": 1, "minutes": 9, "seconds": 31 }
+    },
+    {
+      "id": "51c046aa-6f24-448a-ada9-dd6b114d0459",
+      "audioBookId": "740385f4-ae9f-49b6-a872-47203ea0bfe4",
+      "audioBookOrder": 3,
+      "name": { "pa": "ਮੇਰਾ ਬਾਲਾ ਪ੍ਰੀਤਮ", "en": "Mera Bala Pritam" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriKalgidharChamatkar/03 Mera Bala Pritam.mp3",
+      "duration": { "hours": 1, "minutes": 33, "seconds": 40 }
+    },
+    {
+      "id": "4332ff4d-8c66-4e6b-8e32-d6671d2278bf",
+      "audioBookId": "740385f4-ae9f-49b6-a872-47203ea0bfe4",
+      "audioBookOrder": 4,
+      "name": { "pa": "ਗੁਰੂ ਜੀ ਦਾ ਪਹਿਲਾ ਸਫ਼ਰ", "en": "Guru Ji Da Pehla Safar" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriKalgidharChamatkar/04 Guru Ji Da Pehla Safar.mp3",
+      "duration": { "minutes": 43, "seconds": 2 }
+    },
+    {
+      "id": "0e6adc80-64f2-4fb3-b8f7-2bef70623bb7",
+      "audioBookId": "740385f4-ae9f-49b6-a872-47203ea0bfe4",
+      "audioBookOrder": 5,
+      "name": { "pa": "ਕਿਸ਼ੋਰ ਕੌਤਕ", "en": "Kishor Kautak" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriKalgidharChamatkar/05 Kishor Kautak.mp3",
+      "duration": { "hours": 2, "minutes": 1, "seconds": 29 }
+    },
+    {
+      "id": "228fdf59-462e-4af5-b21d-69865f978786",
+      "audioBookId": "740385f4-ae9f-49b6-a872-47203ea0bfe4",
+      "audioBookOrder": 6,
+      "name": { "pa": "ਰਾਜਾ ਰਤਨ ਰਾਇ", "en": "Raja Ratan Rai" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriKalgidharChamatkar/06 Raja Ratan Rai.mp3",
+      "duration": { "hours": 2, "minutes": 4, "seconds": 54 }
+    },
+    {
+      "id": "7cfdc4cf-fd7f-4760-af5c-4753775146c1",
+      "audioBookId": "740385f4-ae9f-49b6-a872-47203ea0bfe4",
+      "audioBookOrder": 7,
+      "name": {
+        "pa": "ਮੇਰਾ ਦੁੱਧ (ਬੁੱਢਣ ਸ਼ਾਹ)",
+        "en": "Mera Dudh (Buddan Shah)"
+      },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriKalgidharChamatkar/07 Mera Dudh.mp3",
+      "duration": { "minutes": 31, "seconds": 26 }
+    },
+    {
+      "id": "05ffc318-2724-4b64-946e-1e15b1c2652a",
+      "audioBookId": "740385f4-ae9f-49b6-a872-47203ea0bfe4",
+      "audioBookOrder": 8,
+      "name": { "pa": "ਕਾਲਸੀ ਦਾ ਰਿਖੀ", "en": "Kalsi da Rikhi" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriKalgidharChamatkar/08 Kalsi da Rikhi.mp3",
+      "duration": { "hours": 1, "minutes": 46, "seconds": 2 }
+    },
+    {
+      "id": "04fba796-6f87-48b7-932d-f867a741b7ba",
+      "audioBookId": "740385f4-ae9f-49b6-a872-47203ea0bfe4",
+      "audioBookOrder": 9,
+      "name": { "pa": "ਜੁੱਧ ਭੰਗਾਣੀ", "en": "Judh Bhangani" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriKalgidharChamatkar/09 Bhangani da Yudh.mp3",
+      "duration": { "hours": 1, "minutes": 14, "seconds": 32 }
+    },
+    {
+      "id": "3a0a3470-802c-4769-9a1c-c9db9324c35f",
+      "audioBookId": "740385f4-ae9f-49b6-a872-47203ea0bfe4",
+      "audioBookOrder": 10,
+      "name": { "pa": "ਰਾਇ ਪੁਰ ਦੀ ਰਾਣੀ", "en": "Raipur di Rani" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriKalgidharChamatkar/10 Raipur di Rani.mp3",
+      "duration": { "hours": 1, "minutes": 36, "seconds": 50 }
+    },
+    {
+      "id": "f6c3d1e1-3c81-4fa4-9937-63ac39afb55e",
+      "audioBookId": "740385f4-ae9f-49b6-a872-47203ea0bfe4",
+      "audioBookOrder": 11,
+      "name": { "pa": "ਨਾਦੌਣ ਯੁੱਧ", "en": "Nadaon Yudh" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriKalgidharChamatkar/11 Nadaon da Yudh.mp3",
+      "duration": { "hours": 1, "minutes": 36, "seconds": 56 }
+    },
+    {
+      "id": "34225ad7-ceb8-4819-8c78-ca13dafb2061",
+      "audioBookId": "740385f4-ae9f-49b6-a872-47203ea0bfe4",
+      "audioBookOrder": 12,
+      "name": { "pa": "ਮੋਹਿਨਾ-ਸੋਹਿਨਾ", "en": "Mohena - Sohena" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriKalgidharChamatkar/12 Mohena te Sohena.mp3",
+      "duration": { "hours": 1, "minutes": 20, "seconds": 18 }
+    },
+    {
+      "id": "f5785df3-a552-43d1-89b0-8811a6789692",
+      "audioBookId": "740385f4-ae9f-49b6-a872-47203ea0bfe4",
+      "audioBookOrder": 13,
+      "name": { "pa": "ਪੀਰ ਬੁੱਧੂ ਸ਼ਾਹ", "en": "Peer Budhu Shah" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriKalgidharChamatkar/13 Peer Budhu Shah.mp3",
+      "duration": { "minutes": 58, "seconds": 52 }
+    },
+    {
+      "id": "7b3b2ed4-bfd1-4d94-a79e-de93c3af36b7",
+      "audioBookId": "740385f4-ae9f-49b6-a872-47203ea0bfe4",
+      "audioBookOrder": 14,
+      "name": { "pa": "ਹਾਇ ! ਨਾ ਤੋੜ", "en": "Haye ! Na Todh" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriKalgidharChamatkar/14 Haye Na Todh.mp3",
+      "duration": { "hours": 1, "minutes": 15, "seconds": 31 }
+    },
+    {
+      "id": "1fb1fe3f-b5dc-4279-8fa3-123417ea38b7",
+      "audioBookId": "740385f4-ae9f-49b6-a872-47203ea0bfe4",
+      "audioBookOrder": 15,
+      "name": { "pa": "ਭਾਈ ਹਰਵੰਤ ਸਿੰਘ", "en": "Bhai Harwant Singh" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriKalgidharChamatkar/15 Bhai Harwant Singh.mp3",
+      "duration": { "minutes": 45, "seconds": 24 }
+    },
+    {
+      "id": "59aa7bbc-51fa-461e-8bd8-2ab55c5dac5d",
+      "audioBookId": "740385f4-ae9f-49b6-a872-47203ea0bfe4",
+      "audioBookOrder": 16,
+      "name": { "pa": "ਬਨ ਯੁੱਧ", "en": "Ban Yudh" },
+      "audioPath": "audio/audioBooks/BhaiVirSinghJi/SriKalgidharChamatkar/16 Ban Yudh.mp3",
+      "duration": { "minutes": 52, "seconds": 38 }
     }
   ]
 }
